@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/512/trunk/0.5/unstable/wonderOSC/samples/sunSPOT/SpotForwarder/src/com/illposed/osc
+END
+OSCPortIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/512/trunk/0.5/unstable/wonderOSC/samples/sunSPOT/SpotForwarder/src/com/illposed/osc/OSCPortIn.java
+END
+OSCPortOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/512/trunk/0.5/unstable/wonderOSC/samples/sunSPOT/SpotForwarder/src/com/illposed/osc/OSCPortOut.java
+END
+OSCMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/512/trunk/0.5/unstable/wonderOSC/samples/sunSPOT/SpotForwarder/src/com/illposed/osc/OSCMessage.java
+END
+OSCPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/512/trunk/0.5/unstable/wonderOSC/samples/sunSPOT/SpotForwarder/src/com/illposed/osc/OSCPort.java
+END
+OSCListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/512/trunk/0.5/unstable/wonderOSC/samples/sunSPOT/SpotForwarder/src/com/illposed/osc/OSCListener.java
+END
+OSCPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/512/trunk/0.5/unstable/wonderOSC/samples/sunSPOT/SpotForwarder/src/com/illposed/osc/OSCPacket.java
+END
+OSCBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/512/trunk/0.5/unstable/wonderOSC/samples/sunSPOT/SpotForwarder/src/com/illposed/osc/OSCBundle.java
+END

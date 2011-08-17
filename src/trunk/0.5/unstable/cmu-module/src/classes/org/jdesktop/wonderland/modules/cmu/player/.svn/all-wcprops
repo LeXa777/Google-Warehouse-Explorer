@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1538/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/player
+END
+MouseButtonEventFromWorld.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1107/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/player/MouseButtonEventFromWorld.java
+END
+ProgramManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/player/ProgramManager.java
+END
+ProgramPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/player/ProgramPlayer.java
+END
+ProgramConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/player/ProgramConnection.java
+END
+NodeUpdateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1098/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/player/NodeUpdateListener.java
+END

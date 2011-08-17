@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/867/trunk/0.5/unstable/timeline/src/classes/META-INF/services
+END
+org.jdesktop.wonderland.modules.spi.ModuleDeployerSPI
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/867/trunk/0.5/unstable/timeline/src/classes/META-INF/services/org.jdesktop.wonderland.modules.spi.ModuleDeployerSPI
+END

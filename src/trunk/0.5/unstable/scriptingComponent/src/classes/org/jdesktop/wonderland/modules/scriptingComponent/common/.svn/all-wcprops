@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/common
+END
+ScriptingComponentChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/common/ScriptingComponentChangeMessage.java
+END
+ScriptingComponentNpcMoveMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/common/ScriptingComponentNpcMoveMessage.java
+END
+ScriptingComponentClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/common/ScriptingComponentClientState.java
+END
+ScriptingComponentTransformMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/common/ScriptingComponentTransformMessage.java
+END
+ScriptingComponentServerScriptMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/common/ScriptingComponentServerScriptMessage.java
+END
+ScriptingComponentICEMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/common/ScriptingComponentICEMessage.java
+END
+ScriptingComponentServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/common/ScriptingComponentServerState.java
+END
+ScriptingComponentCellCreateMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/common/ScriptingComponentCellCreateMessage.java
+END

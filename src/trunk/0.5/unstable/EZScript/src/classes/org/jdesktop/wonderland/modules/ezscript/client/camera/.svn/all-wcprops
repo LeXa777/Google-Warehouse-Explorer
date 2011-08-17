@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1772/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/camera
+END
+SetTopDownCameraMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1772/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/camera/SetTopDownCameraMethod.java
+END
+SetLeftCameraMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1772/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/camera/SetLeftCameraMethod.java
+END
+SetRightCameraMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1772/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/camera/SetRightCameraMethod.java
+END
+CameraUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1772/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/camera/CameraUtils.java
+END

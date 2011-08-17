@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1478/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/utils
+END
+MovieCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1478/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/utils/MovieCreator.java
+END
+ImagesDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1326/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/utils/ImagesDataSource.java
+END
+JPEGBufferStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1326/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/utils/JPEGBufferStream.java
+END
+JPEGDirectoryFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1326/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/utils/JPEGDirectoryFetcher.java
+END
+JPEGImageProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1326/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/utils/JPEGImageProducer.java
+END
+EncodeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1326/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/utils/EncodeException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1375/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/utils/package.html
+END

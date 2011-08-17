@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1608/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client
+END
+PDFDocumentLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1248/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/PDFDocumentLoader.java
+END
+PDFViewerToolListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1094/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/PDFViewerToolListener.java
+END
+PDFViewerCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1504/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/PDFViewerCellFactory.java
+END
+PDFViewerWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1544/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/PDFViewerWindow.java
+END
+PDFViewerToolManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1115/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/PDFViewerToolManager.java
+END
+PDFViewerStateTransferable.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1029/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/PDFViewerStateTransferable.java
+END
+PDFViewerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1504/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/PDFViewerPanel.java
+END
+PDFViewerControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1094/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/PDFViewerControlPanel.java
+END
+PDFViewerApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1029/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/PDFViewerApp.java
+END
+PDFViewerPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/PDFViewerPanel.form
+END
+PDFViewerDragGestureListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1094/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/PDFViewerDragGestureListener.java
+END
+PDFViewerControlPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1094/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/PDFViewerControlPanel.form
+END

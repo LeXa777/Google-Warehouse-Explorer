@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1240/trunk/0.5/stable/evolver-avatar/src/classes/org/jdesktop/wonderland/modules/evolver/client/evolver
+END
+EvolverAvatarLoaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1099/trunk/0.5/stable/evolver-avatar/src/classes/org/jdesktop/wonderland/modules/evolver/client/evolver/EvolverAvatarLoaderFactory.java
+END
+EvolverAvatar.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1118/trunk/0.5/stable/evolver-avatar/src/classes/org/jdesktop/wonderland/modules/evolver/client/evolver/EvolverAvatar.java
+END
+EvolverAvatarConfigManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1240/trunk/0.5/stable/evolver-avatar/src/classes/org/jdesktop/wonderland/modules/evolver/client/evolver/EvolverAvatarConfigManager.java
+END
+EvolverAvatarLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1099/trunk/0.5/stable/evolver-avatar/src/classes/org/jdesktop/wonderland/modules/evolver/client/evolver/EvolverAvatarLoader.java
+END
+EvolverAvatarFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1099/trunk/0.5/stable/evolver-avatar/src/classes/org/jdesktop/wonderland/modules/evolver/client/evolver/EvolverAvatarFactory.java
+END
+EvolverAvatarInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1099/trunk/0.5/stable/evolver-avatar/src/classes/org/jdesktop/wonderland/modules/evolver/client/evolver/EvolverAvatarInfo.java
+END

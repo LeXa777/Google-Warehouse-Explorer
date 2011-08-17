@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1098/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/player/conversions/math
+END
+ScaleConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1098/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/player/conversions/math/ScaleConverter.java
+END
+Point3Converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1098/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/player/conversions/math/Point3Converter.java
+END
+OrthogonalMatrix3x3Converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1098/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/player/conversions/math/OrthogonalMatrix3x3Converter.java
+END

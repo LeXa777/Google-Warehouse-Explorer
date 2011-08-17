@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1724/trunk/0.5/unstable/ruler/src/classes/org/jdesktop/wonderland/modules/ruler/common
+END
+RulerCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1724/trunk/0.5/unstable/ruler/src/classes/org/jdesktop/wonderland/modules/ruler/common/RulerCellServerState.java
+END
+RulerInfoHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1724/trunk/0.5/unstable/ruler/src/classes/org/jdesktop/wonderland/modules/ruler/common/RulerInfoHolder.java
+END
+RulerCellUnitChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1724/trunk/0.5/unstable/ruler/src/classes/org/jdesktop/wonderland/modules/ruler/common/RulerCellUnitChangeMessage.java
+END
+RulerCellTypeChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1724/trunk/0.5/unstable/ruler/src/classes/org/jdesktop/wonderland/modules/ruler/common/RulerCellTypeChangeMessage.java
+END
+MeasurementUnits.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1724/trunk/0.5/unstable/ruler/src/classes/org/jdesktop/wonderland/modules/ruler/common/MeasurementUnits.java
+END
+RulerCellClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1724/trunk/0.5/unstable/ruler/src/classes/org/jdesktop/wonderland/modules/ruler/common/RulerCellClientState.java
+END
+RulerCellState.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1724/trunk/0.5/unstable/ruler/src/classes/org/jdesktop/wonderland/modules/ruler/common/RulerCellState.java
+END
+RulerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1724/trunk/0.5/unstable/ruler/src/classes/org/jdesktop/wonderland/modules/ruler/common/RulerType.java
+END

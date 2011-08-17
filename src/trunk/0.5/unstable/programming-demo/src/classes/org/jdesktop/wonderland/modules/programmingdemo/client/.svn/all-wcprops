@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client
+END
+SortCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/SortCellFactory.java
+END
+CodeWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/CodeWindow.java
+END
+SortCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/SortCell.java
+END
+SortSettingsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/SortSettingsPanel.java
+END
+CodeTooltipComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/CodeTooltipComponent.java
+END
+CodePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/CodePanel.java
+END
+CodeCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/CodeCell.java
+END
+SortSettingsPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/SortSettingsPanel.form
+END
+CodeApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/CodeApp.java
+END
+CodeControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/CodeControlPanel.java
+END
+CodePanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/CodePanel.form
+END
+CodeControlPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/CodeControlPanel.form
+END

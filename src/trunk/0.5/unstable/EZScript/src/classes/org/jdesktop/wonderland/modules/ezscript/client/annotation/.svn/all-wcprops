@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1713/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/annotation
+END
+ScriptMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1629/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/annotation/ScriptMethod.java
+END
+TriggerCellEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1713/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/annotation/TriggerCellEvent.java
+END
+ReturnableScriptMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1633/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/annotation/ReturnableScriptMethod.java
+END
+RemoteCellMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1629/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/annotation/RemoteCellMethod.java
+END

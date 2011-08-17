@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1330/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/server/wfs
+END
+RecordingLoaderUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1330/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/server/wfs/RecordingLoaderUtils.java
+END
+CellImportManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1031/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/server/wfs/CellImportManager.java
+END
+CellImportManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1031/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/server/wfs/CellImportManagerImpl.java
+END
+CellImportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1330/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/server/wfs/CellImportService.java
+END

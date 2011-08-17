@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/803/trunk/0.5/unstable/annotations/src/classes/org/jdesktop/wonderland/modules/annotations/client
+END
+AnnotationComponentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/654/trunk/0.5/unstable/annotations/src/classes/org/jdesktop/wonderland/modules/annotations/client/AnnotationComponentFactory.java
+END
+AnnotationPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/737/trunk/0.5/unstable/annotations/src/classes/org/jdesktop/wonderland/modules/annotations/client/AnnotationPlugin.java
+END
+AnnotationComponentProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/675/trunk/0.5/unstable/annotations/src/classes/org/jdesktop/wonderland/modules/annotations/client/AnnotationComponentProperties.java
+END
+AnnotationComponentProperties.form
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/654/trunk/0.5/unstable/annotations/src/classes/org/jdesktop/wonderland/modules/annotations/client/AnnotationComponentProperties.form
+END
+AnnotationComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/803/trunk/0.5/unstable/annotations/src/classes/org/jdesktop/wonderland/modules/annotations/client/AnnotationComponent.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1145/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/player/conversions/scenegraph/properties
+END
+VertexGeometryConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1145/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/player/conversions/scenegraph/properties/VertexGeometryConverter.java
+END
+GeometryConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1145/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/player/conversions/scenegraph/properties/GeometryConverter.java
+END
+AppearanceConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1145/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/player/conversions/scenegraph/properties/AppearanceConverter.java
+END
+TextConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1145/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/player/conversions/scenegraph/properties/TextConverter.java
+END

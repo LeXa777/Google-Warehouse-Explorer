@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1651/trunk/0.5/unstable/evolver-avatar-multimesh/src/classes/org/jdesktop/wonderland/modules/evolvermulti/client/evolver
+END
+MultimeshEvolverAvatarLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1283/trunk/0.5/unstable/evolver-avatar-multimesh/src/classes/org/jdesktop/wonderland/modules/evolvermulti/client/evolver/MultimeshEvolverAvatarLoader.java
+END
+MultimeshEvolverAvatarFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1283/trunk/0.5/unstable/evolver-avatar-multimesh/src/classes/org/jdesktop/wonderland/modules/evolvermulti/client/evolver/MultimeshEvolverAvatarFactory.java
+END
+MultimeshEvolverAvatarInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1511/trunk/0.5/unstable/evolver-avatar-multimesh/src/classes/org/jdesktop/wonderland/modules/evolvermulti/client/evolver/MultimeshEvolverAvatarInfo.java
+END
+MultimeshEvolverAvatarClientPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/1511/trunk/0.5/unstable/evolver-avatar-multimesh/src/classes/org/jdesktop/wonderland/modules/evolvermulti/client/evolver/MultimeshEvolverAvatarClientPlugin.java
+END
+MultimeshEvolverAvatarLoaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/1283/trunk/0.5/unstable/evolver-avatar-multimesh/src/classes/org/jdesktop/wonderland/modules/evolvermulti/client/evolver/MultimeshEvolverAvatarLoaderFactory.java
+END
+MultimeshEvolverAvatar.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1283/trunk/0.5/unstable/evolver-avatar-multimesh/src/classes/org/jdesktop/wonderland/modules/evolvermulti/client/evolver/MultimeshEvolverAvatar.java
+END
+MultimeshEvolverAvatarConfigManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/1511/trunk/0.5/unstable/evolver-avatar-multimesh/src/classes/org/jdesktop/wonderland/modules/evolvermulti/client/evolver/MultimeshEvolverAvatarConfigManager.java
+END

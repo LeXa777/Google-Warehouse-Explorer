@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/595/trunk/0.5/unstable/group-text-chat/src/classes/org/jdesktop/wonderland/modules/grouptextchat/common
+END
+GroupChatMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/595/trunk/0.5/unstable/group-text-chat/src/classes/org/jdesktop/wonderland/modules/grouptextchat/common/GroupChatMessage.java
+END
+TextChatConnectionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/566/trunk/0.5/unstable/group-text-chat/src/classes/org/jdesktop/wonderland/modules/grouptextchat/common/TextChatConnectionType.java
+END
+TextChatMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/568/trunk/0.5/unstable/group-text-chat/src/classes/org/jdesktop/wonderland/modules/grouptextchat/common/TextChatMessage.java
+END
+GroupID.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/595/trunk/0.5/unstable/group-text-chat/src/classes/org/jdesktop/wonderland/modules/grouptextchat/common/GroupID.java
+END

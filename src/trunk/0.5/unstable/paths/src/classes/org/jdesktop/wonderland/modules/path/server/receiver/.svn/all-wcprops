@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/server/receiver
+END
+PathNodeChangeMessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/server/receiver/PathNodeChangeMessageReceiver.java
+END
+StateFlagChangeMessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1749/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/server/receiver/StateFlagChangeMessageReceiver.java
+END
+PathStyleChangeMessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1749/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/server/receiver/PathStyleChangeMessageReceiver.java
+END

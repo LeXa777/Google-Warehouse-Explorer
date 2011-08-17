@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1608/trunk/0.5/stable/cell-performance-viewer/src/classes/org/jdesktop/wonderland/modules/cellperformance/client/resources
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1539/trunk/0.5/stable/cell-performance-viewer/src/classes/org/jdesktop/wonderland/modules/cellperformance/client/resources/Bundle.properties
+END
+Bundle_el.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1590/trunk/0.5/stable/cell-performance-viewer/src/classes/org/jdesktop/wonderland/modules/cellperformance/client/resources/Bundle_el.properties
+END
+Bundle_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1589/trunk/0.5/stable/cell-performance-viewer/src/classes/org/jdesktop/wonderland/modules/cellperformance/client/resources/Bundle_zh_CN.properties
+END
+Bundle_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1608/trunk/0.5/stable/cell-performance-viewer/src/classes/org/jdesktop/wonderland/modules/cellperformance/client/resources/Bundle_es.properties
+END
+Bundle_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1603/trunk/0.5/stable/cell-performance-viewer/src/classes/org/jdesktop/wonderland/modules/cellperformance/client/resources/Bundle_fr.properties
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1210/trunk/0.5/unstable/xmpp-presence/src/classes/org/jdesktop/wonderland/modules/xmpp_presence/server/service
+END
+XMPPPresenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1210/trunk/0.5/unstable/xmpp-presence/src/classes/org/jdesktop/wonderland/modules/xmpp_presence/server/service/XMPPPresenceManager.java
+END
+XMPPPresenceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1210/trunk/0.5/unstable/xmpp-presence/src/classes/org/jdesktop/wonderland/modules/xmpp_presence/server/service/XMPPPresenceService.java
+END

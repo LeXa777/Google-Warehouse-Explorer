@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message
+END
+PathClosedChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1749/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/PathClosedChangeMessage.java
+END
+PathNodePositionChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/PathNodePositionChangeMessage.java
+END
+StyleAttributeChangedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/StyleAttributeChangedMessage.java
+END
+PathNodeInsertedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/PathNodeInsertedMessage.java
+END
+EditModeChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1749/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/EditModeChangeMessage.java
+END
+AllPathNodesRemovedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/AllPathNodesRemovedMessage.java
+END
+ItemStyleRemovedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/ItemStyleRemovedMessage.java
+END
+AbstractItemStyleMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/AbstractItemStyleMessage.java
+END
+StyleAttributeAddedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/StyleAttributeAddedMessage.java
+END
+StyleAttributeRemovedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/StyleAttributeRemovedMessage.java
+END
+ItemStyleSpanChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/ItemStyleSpanChangeMessage.java
+END
+PathNodeNameChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/PathNodeNameChangeMessage.java
+END
+IndexStyleAttributeIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/IndexStyleAttributeIdentifier.java
+END
+ItemStyleInsertedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/ItemStyleInsertedMessage.java
+END
+ItemStyleIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/ItemStyleIdentifier.java
+END
+ItemStyleAppendedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/ItemStyleAppendedMessage.java
+END
+StyleAttributeIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/StyleAttributeIdentifier.java
+END
+AllStyleAttributesRemovedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/AllStyleAttributesRemovedMessage.java
+END
+PathStyleChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1749/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/PathStyleChangeMessage.java
+END
+NameStyleAttributeIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/NameStyleAttributeIdentifier.java
+END
+PathNodeRemovedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/PathNodeRemovedMessage.java
+END
+StyleAttributeReplacedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/StyleAttributeReplacedMessage.java
+END
+PathNodeAddedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/PathNodeAddedMessage.java
+END
+ItemStyleTypeChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/message/ItemStyleTypeChangeMessage.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1380/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/common
+END
+EventRecorderCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/623/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/common/EventRecorderCellServerState.java
+END
+EventRecorderCellChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/623/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/common/EventRecorderCellChangeMessage.java
+END
+EventRecorderClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1380/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/common/EventRecorderClientState.java
+END
+Tape.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1034/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/common/Tape.java
+END
+TapeStateMessageResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/623/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/common/TapeStateMessageResponse.java
+END

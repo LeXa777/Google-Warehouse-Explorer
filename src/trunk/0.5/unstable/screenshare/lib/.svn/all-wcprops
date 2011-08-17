@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1571/trunk/0.5/unstable/screenshare/lib
+END
+atmosphere-compat-jbossweb-0.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1571/trunk/0.5/unstable/screenshare/lib/atmosphere-compat-jbossweb-0.6.1.jar
+END
+atmosphere-runtime-0.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1571/trunk/0.5/unstable/screenshare/lib/atmosphere-runtime-0.6.1.jar
+END
+LICENSE.atmosphere
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1571/trunk/0.5/unstable/screenshare/lib/LICENSE.atmosphere
+END
+atmosphere-compat-tomcat-0.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1571/trunk/0.5/unstable/screenshare/lib/atmosphere-compat-tomcat-0.6.1.jar
+END
+atmosphere-compat-weblogic-0.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1571/trunk/0.5/unstable/screenshare/lib/atmosphere-compat-weblogic-0.6.1.jar
+END

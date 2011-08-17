@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1607/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/common
+END
+MuteMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1570/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/common/MuteMessage.java
+END
+BroadcastMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1607/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/common/BroadcastMessage.java
+END
+UserListRequestMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1607/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/common/UserListRequestMessage.java
+END
+AdminToolsWebConnectionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1607/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/common/AdminToolsWebConnectionType.java
+END
+InvisibleMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1570/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/common/InvisibleMessage.java
+END
+UserList.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1607/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/common/UserList.java
+END
+AdminToolsConnectionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1570/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/common/AdminToolsConnectionType.java
+END
+AdminToolsComponentClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1570/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/common/AdminToolsComponentClientState.java
+END
+DisconnectMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1570/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/common/DisconnectMessage.java
+END
+UserListResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1607/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/common/UserListResponseMessage.java
+END

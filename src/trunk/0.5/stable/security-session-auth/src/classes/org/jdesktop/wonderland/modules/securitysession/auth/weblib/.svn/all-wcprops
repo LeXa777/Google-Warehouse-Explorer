@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1499/trunk/0.5/stable/security-session-auth/src/classes/org/jdesktop/wonderland/modules/securitysession/auth/weblib
+END
+UserPluginConfigList.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1499/trunk/0.5/stable/security-session-auth/src/classes/org/jdesktop/wonderland/modules/securitysession/auth/weblib/UserPluginConfigList.java
+END
+AuthSessionManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1218/trunk/0.5/stable/security-session-auth/src/classes/org/jdesktop/wonderland/modules/securitysession/auth/weblib/AuthSessionManagerImpl.java
+END
+AuthUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1218/trunk/0.5/stable/security-session-auth/src/classes/org/jdesktop/wonderland/modules/securitysession/auth/weblib/AuthUtils.java
+END
+DBUserPluginImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1218/trunk/0.5/stable/security-session-auth/src/classes/org/jdesktop/wonderland/modules/securitysession/auth/weblib/DBUserPluginImpl.java
+END
+GuestUserPluginImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1218/trunk/0.5/stable/security-session-auth/src/classes/org/jdesktop/wonderland/modules/securitysession/auth/weblib/GuestUserPluginImpl.java
+END
+UserPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1218/trunk/0.5/stable/security-session-auth/src/classes/org/jdesktop/wonderland/modules/securitysession/auth/weblib/UserPlugin.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1654/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/client
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1570/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/client/Bundle.properties
+END
+Bundle_el.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1590/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/client/Bundle_el.properties
+END
+Bundle_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1589/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/client/Bundle_zh_CN.properties
+END
+AdminToolsClientPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1570/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/client/AdminToolsClientPlugin.java
+END
+AdminToolsConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1607/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/client/AdminToolsConnection.java
+END
+Bundle_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1608/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/client/Bundle_es.properties
+END
+Bundle_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1654/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/client/Bundle_fr.properties
+END
+AdminToolsComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1613/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/client/AdminToolsComponent.java
+END
+Bundle_en_GB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1600/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/client/Bundle_en_GB.properties
+END

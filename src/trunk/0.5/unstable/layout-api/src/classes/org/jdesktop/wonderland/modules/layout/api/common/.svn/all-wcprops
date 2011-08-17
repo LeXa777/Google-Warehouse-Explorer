@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1347/trunk/0.5/unstable/layout-api/src/classes/org/jdesktop/wonderland/modules/layout/api/common
+END
+AbstractLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1347/trunk/0.5/unstable/layout-api/src/classes/org/jdesktop/wonderland/modules/layout/api/common/AbstractLayout.java
+END
+LayoutConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1347/trunk/0.5/unstable/layout-api/src/classes/org/jdesktop/wonderland/modules/layout/api/common/LayoutConfig.java
+END
+LayoutParticipantProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1347/trunk/0.5/unstable/layout-api/src/classes/org/jdesktop/wonderland/modules/layout/api/common/LayoutParticipantProvider.java
+END
+LayoutParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1347/trunk/0.5/unstable/layout-api/src/classes/org/jdesktop/wonderland/modules/layout/api/common/LayoutParticipant.java
+END
+Layout.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1347/trunk/0.5/unstable/layout-api/src/classes/org/jdesktop/wonderland/modules/layout/api/common/Layout.java
+END

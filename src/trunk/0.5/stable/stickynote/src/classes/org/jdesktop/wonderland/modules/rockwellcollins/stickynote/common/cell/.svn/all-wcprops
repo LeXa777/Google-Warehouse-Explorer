@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1139/trunk/0.5/stable/stickynote/src/classes/org/jdesktop/wonderland/modules/rockwellcollins/stickynote/common/cell
+END
+StickyNoteTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1139/trunk/0.5/stable/stickynote/src/classes/org/jdesktop/wonderland/modules/rockwellcollins/stickynote/common/cell/StickyNoteTypes.java
+END
+StickyNoteCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1139/trunk/0.5/stable/stickynote/src/classes/org/jdesktop/wonderland/modules/rockwellcollins/stickynote/common/cell/StickyNoteCellServerState.java
+END
+StickyNoteCellClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1139/trunk/0.5/stable/stickynote/src/classes/org/jdesktop/wonderland/modules/rockwellcollins/stickynote/common/cell/StickyNoteCellClientState.java
+END

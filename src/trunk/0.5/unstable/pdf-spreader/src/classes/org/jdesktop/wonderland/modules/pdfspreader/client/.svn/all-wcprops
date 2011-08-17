@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1197/trunk/0.5/unstable/pdf-spreader/src/classes/org/jdesktop/wonderland/modules/pdfspreader/client
+END
+PDFSpreaderCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/733/trunk/0.5/unstable/pdf-spreader/src/classes/org/jdesktop/wonderland/modules/pdfspreader/client/PDFSpreaderCell.java
+END
+PDFSpreaderCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1195/trunk/0.5/unstable/pdf-spreader/src/classes/org/jdesktop/wonderland/modules/pdfspreader/client/PDFSpreaderCellFactory.java
+END
+PDFLayoutHUDPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1120/trunk/0.5/unstable/pdf-spreader/src/classes/org/jdesktop/wonderland/modules/pdfspreader/client/PDFLayoutHUDPanel.java
+END
+PDFLayoutHUDPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/724/trunk/0.5/unstable/pdf-spreader/src/classes/org/jdesktop/wonderland/modules/pdfspreader/client/PDFLayoutHUDPanel.form
+END
+PDFSpreaderClientPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1120/trunk/0.5/unstable/pdf-spreader/src/classes/org/jdesktop/wonderland/modules/pdfspreader/client/PDFSpreaderClientPlugin.java
+END

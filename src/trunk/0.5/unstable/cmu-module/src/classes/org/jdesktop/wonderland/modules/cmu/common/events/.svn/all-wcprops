@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/events
+END
+WonderlandEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/events/WonderlandEvent.java
+END
+ProximityEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/events/ProximityEvent.java
+END
+ContextMenuEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/events/ContextMenuEvent.java
+END
+AvatarMovementEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/events/AvatarMovementEvent.java
+END
+EventResponseList.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/events/EventResponseList.java
+END
+EventResponsePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/events/EventResponsePair.java
+END

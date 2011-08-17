@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/hud
+END
+LoadingHUD.form
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1392/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/hud/LoadingHUD.form
+END
+HUDControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/hud/HUDControl.java
+END
+DisconnectedHUD.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/hud/DisconnectedHUD.java
+END
+CMUPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/hud/CMUPanel.java
+END
+DisconnectedHUD.form
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1392/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/hud/DisconnectedHUD.form
+END
+ActiveHUD.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/hud/ActiveHUD.java
+END
+LoadingHUD.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/hud/LoadingHUD.java
+END
+ActiveHUD.form
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1392/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/hud/ActiveHUD.form
+END

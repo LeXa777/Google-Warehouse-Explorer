@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1523/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/server/service
+END
+MetadataService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1523/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/server/service/MetadataService.java
+END
+MetadataBackendInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/684/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/server/service/MetadataBackendInterface.java
+END
+MetadataManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1523/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/server/service/MetadataManager.java
+END
+MetadataManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1523/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/server/service/MetadataManagerImpl.java
+END

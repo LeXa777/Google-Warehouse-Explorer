@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/696/trunk/0.5/unstable/connectionsample/src/classes/org/jdesktop/wonderland/modules/connectionsample/common
+END
+CreateCellRequestMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/696/trunk/0.5/unstable/connectionsample/src/classes/org/jdesktop/wonderland/modules/connectionsample/common/CreateCellRequestMessage.java
+END
+ColoredCubeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/696/trunk/0.5/unstable/connectionsample/src/classes/org/jdesktop/wonderland/modules/connectionsample/common/ColoredCubeConstants.java
+END
+ColorChangeConnectionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/696/trunk/0.5/unstable/connectionsample/src/classes/org/jdesktop/wonderland/modules/connectionsample/common/ColorChangeConnectionType.java
+END
+CreateCellResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/696/trunk/0.5/unstable/connectionsample/src/classes/org/jdesktop/wonderland/modules/connectionsample/common/CreateCellResponseMessage.java
+END
+ChangeColorMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/696/trunk/0.5/unstable/connectionsample/src/classes/org/jdesktop/wonderland/modules/connectionsample/common/ChangeColorMessage.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1773/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/keybindings
+END
+SetKeyBindingMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1773/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/keybindings/SetKeyBindingMethod.java
+END
+RemoveKeyBindingMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1773/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/keybindings/RemoveKeyBindingMethod.java
+END
+KeyBindingUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1773/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/keybindings/KeyBindingUtils.java
+END
+GetKeyBindingsMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1773/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/keybindings/GetKeyBindingsMethod.java
+END

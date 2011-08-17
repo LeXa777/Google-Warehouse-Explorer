@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1704/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/server/converter
+END
+WonderlandDirectoryConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1697/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/server/converter/WonderlandDirectoryConstants.java
+END
+SimpleModuleMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1702/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/server/converter/SimpleModuleMetaData.java
+END
+ModuleInfoXmlFileCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1702/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/server/converter/ModuleInfoXmlFileCreator.java
+END
+ModuleMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1702/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/server/converter/ModuleMetaData.java
+END
+ModuleXmlFileCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1702/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/server/converter/ModuleXmlFileCreator.java
+END
+ServerMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1697/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/server/converter/ServerMetaData.java
+END
+WorldToModuleConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1704/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/server/converter/WorldToModuleConverter.java
+END
+DefaultServerMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1697/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/server/converter/DefaultServerMetaData.java
+END
+ModuleDependenciesXmlFileCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1702/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/server/converter/ModuleDependenciesXmlFileCreator.java
+END

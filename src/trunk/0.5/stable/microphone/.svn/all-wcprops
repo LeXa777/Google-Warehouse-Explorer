@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1810/trunk/0.5/stable/microphone
+END
+my.module.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1411/trunk/0.5/stable/microphone/my.module.properties
+END
+microphone-wlc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1370/trunk/0.5/stable/microphone/microphone-wlc.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1485/trunk/0.5/stable/microphone/build.xml
+END

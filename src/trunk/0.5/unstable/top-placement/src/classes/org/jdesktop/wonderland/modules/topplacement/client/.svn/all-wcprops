@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1368/trunk/0.5/unstable/top-placement/src/classes/org/jdesktop/wonderland/modules/topplacement/client
+END
+CellSelectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1368/trunk/0.5/unstable/top-placement/src/classes/org/jdesktop/wonderland/modules/topplacement/client/CellSelectionManager.java
+END
+CellSelectionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1367/trunk/0.5/unstable/top-placement/src/classes/org/jdesktop/wonderland/modules/topplacement/client/CellSelectionEntity.java
+END
+TopPlacementCameraProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1367/trunk/0.5/unstable/top-placement/src/classes/org/jdesktop/wonderland/modules/topplacement/client/TopPlacementCameraProcessor.java
+END
+CellDragManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1368/trunk/0.5/unstable/top-placement/src/classes/org/jdesktop/wonderland/modules/topplacement/client/CellDragManager.java
+END
+TopPlacementClientPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1367/trunk/0.5/unstable/top-placement/src/classes/org/jdesktop/wonderland/modules/topplacement/client/TopPlacementClientPlugin.java
+END
+TopPlacementHUDPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1368/trunk/0.5/unstable/top-placement/src/classes/org/jdesktop/wonderland/modules/topplacement/client/TopPlacementHUDPanel.java
+END
+TopPlacementHUDPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1368/trunk/0.5/unstable/top-placement/src/classes/org/jdesktop/wonderland/modules/topplacement/client/TopPlacementHUDPanel.form
+END

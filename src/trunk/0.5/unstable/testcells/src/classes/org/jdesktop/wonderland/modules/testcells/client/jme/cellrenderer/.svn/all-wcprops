@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1106/trunk/0.5/unstable/testcells/src/classes/org/jdesktop/wonderland/modules/testcells/client/jme/cellrenderer
+END
+DisappearTestRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1106/trunk/0.5/unstable/testcells/src/classes/org/jdesktop/wonderland/modules/testcells/client/jme/cellrenderer/DisappearTestRenderer.java
+END
+DragTestRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1106/trunk/0.5/unstable/testcells/src/classes/org/jdesktop/wonderland/modules/testcells/client/jme/cellrenderer/DragTestRenderer.java
+END
+ShapeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1106/trunk/0.5/unstable/testcells/src/classes/org/jdesktop/wonderland/modules/testcells/client/jme/cellrenderer/ShapeRenderer.java
+END

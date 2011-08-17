@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/375/trunk/0.5/unstable/sharedstate-test/src/classes/org/jdesktop/wonderland/modules/sharedstatetest/client/recorder
+END
+AudioRecorderCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/374/trunk/0.5/unstable/sharedstate-test/src/classes/org/jdesktop/wonderland/modules/sharedstatetest/client/recorder/AudioRecorderCellFactory.java
+END
+RotationAnimationProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/374/trunk/0.5/unstable/sharedstate-test/src/classes/org/jdesktop/wonderland/modules/sharedstatetest/client/recorder/RotationAnimationProcessor.java
+END
+AnimationProcessorComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/374/trunk/0.5/unstable/sharedstate-test/src/classes/org/jdesktop/wonderland/modules/sharedstatetest/client/recorder/AnimationProcessorComponent.java
+END
+AudioRecorderCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/375/trunk/0.5/unstable/sharedstate-test/src/classes/org/jdesktop/wonderland/modules/sharedstatetest/client/recorder/AudioRecorderCell.java
+END
+ReelForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/374/trunk/0.5/unstable/sharedstate-test/src/classes/org/jdesktop/wonderland/modules/sharedstatetest/client/recorder/ReelForm.java
+END
+ReelForm.form
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/374/trunk/0.5/unstable/sharedstate-test/src/classes/org/jdesktop/wonderland/modules/sharedstatetest/client/recorder/ReelForm.form
+END
+AudioRecorderCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/374/trunk/0.5/unstable/sharedstate-test/src/classes/org/jdesktop/wonderland/modules/sharedstatetest/client/recorder/AudioRecorderCellRenderer.java
+END

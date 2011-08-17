@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1606/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/client/cell
+END
+NpcCellProperties.form
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1560/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/client/cell/NpcCellProperties.form
+END
+NpcControllerFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1546/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/client/cell/NpcControllerFrame.java
+END
+NpcCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1606/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/client/cell/NpcCell.java
+END
+NpcControllerFrame.form
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1546/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/client/cell/NpcControllerFrame.form
+END
+NpcControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1546/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/client/cell/NpcControls.java
+END
+NpcChair.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1577/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/client/cell/NpcChair.java
+END
+NpcCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1546/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/client/cell/NpcCellFactory.java
+END
+NpcAvatarConfigComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1071/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/client/cell/NpcAvatarConfigComponent.java
+END
+MovableNpcComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1552/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/client/cell/MovableNpcComponent.java
+END
+PickGeometryEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1606/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/client/cell/PickGeometryEditor.java
+END
+PickGeometryEditor.form
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1546/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/client/cell/PickGeometryEditor.form
+END
+NpcCellProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1577/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/client/cell/NpcCellProperties.java
+END

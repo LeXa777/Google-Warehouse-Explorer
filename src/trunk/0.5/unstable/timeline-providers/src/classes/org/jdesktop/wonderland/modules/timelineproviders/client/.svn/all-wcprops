@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/981/trunk/0.5/unstable/timeline-providers/src/classes/org/jdesktop/wonderland/modules/timelineproviders/client
+END
+NYTimesConfigurationPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/981/trunk/0.5/unstable/timeline-providers/src/classes/org/jdesktop/wonderland/modules/timelineproviders/client/NYTimesConfigurationPanel.java
+END
+NYTimesConfigurationPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/981/trunk/0.5/unstable/timeline-providers/src/classes/org/jdesktop/wonderland/modules/timelineproviders/client/NYTimesConfigurationPanel.form
+END
+FlickrConfigurationPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/981/trunk/0.5/unstable/timeline-providers/src/classes/org/jdesktop/wonderland/modules/timelineproviders/client/FlickrConfigurationPanel.java
+END
+FlickrConfigurationPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/981/trunk/0.5/unstable/timeline-providers/src/classes/org/jdesktop/wonderland/modules/timelineproviders/client/FlickrConfigurationPanel.form
+END
+NYTimesQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/949/trunk/0.5/unstable/timeline-providers/src/classes/org/jdesktop/wonderland/modules/timelineproviders/client/NYTimesQueryBuilder.java
+END
+FlickrTimelineQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/976/trunk/0.5/unstable/timeline-providers/src/classes/org/jdesktop/wonderland/modules/timelineproviders/client/FlickrTimelineQueryBuilder.java
+END
+SampleQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/868/trunk/0.5/unstable/timeline-providers/src/classes/org/jdesktop/wonderland/modules/timelineproviders/client/SampleQueryBuilder.java
+END

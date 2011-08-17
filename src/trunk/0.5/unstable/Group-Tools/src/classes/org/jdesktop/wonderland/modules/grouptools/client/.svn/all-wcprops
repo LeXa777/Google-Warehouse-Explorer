@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1582/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client
+END
+UserHUDPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1573/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/UserHUDPanel.java
+END
+TestPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1573/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/TestPanel.java
+END
+GroupChatJPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1572/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/GroupChatJPanel.form
+END
+GroupListHUDPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1573/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/GroupListHUDPanel.java
+END
+BroadcastMessagePanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1572/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/BroadcastMessagePanel.form
+END
+NotifyPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1582/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/NotifyPanel.form
+END
+TextChatTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1573/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/TextChatTab.java
+END
+SendBroadcastPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1572/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/SendBroadcastPanel.form
+END
+BackgroundNotificationWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1582/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/BackgroundNotificationWorker.java
+END
+TestPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1572/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/TestPanel.form
+END
+UserHUDPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1572/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/UserHUDPanel.form
+END
+GroupChatJPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1573/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/GroupChatJPanel.java
+END
+BroadcastMessagePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1573/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/BroadcastMessagePanel.java
+END
+GroupChatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1582/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/GroupChatManager.java
+END
+NotifyPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1582/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/NotifyPanel.java
+END
+GroupListHUDPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1572/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/GroupListHUDPanel.form
+END
+GroupToolsClientPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1574/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/GroupToolsClientPlugin.java
+END
+SendBroadcastPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1573/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/SendBroadcastPanel.java
+END
+GroupToolsConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1581/trunk/0.5/unstable/Group-Tools/src/classes/org/jdesktop/wonderland/modules/grouptools/client/GroupToolsConnection.java
+END

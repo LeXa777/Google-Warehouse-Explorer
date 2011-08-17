@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1523/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/server
+END
+MetadataComponentMO.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1523/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/server/MetadataComponentMO.java
+END
+MetadataServerPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/684/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/server/MetadataServerPlugin.java
+END
+MetadataConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1523/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/server/MetadataConnectionHandler.java
+END
+MetadataSampleCellMO.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/684/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/server/MetadataSampleCellMO.java
+END

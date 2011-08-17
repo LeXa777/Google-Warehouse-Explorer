@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/303/trunk/src/modules/apps/2d/pdfviewer
+END
+PDFViewer-wlc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/303/trunk/src/modules/apps/2d/pdfviewer/PDFViewer-wlc.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/216/trunk/src/modules/apps/2d/pdfviewer/build.xml
+END

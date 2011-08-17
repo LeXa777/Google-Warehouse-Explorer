@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1627/trunk/0.5/unstable/RoundEllie4/src/classes/org/jdesktop/wonderland/modules/RoundEllie4/client
+END
+RoundEllie4QuaternionInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1627/trunk/0.5/unstable/RoundEllie4/src/classes/org/jdesktop/wonderland/modules/RoundEllie4/client/RoundEllie4QuaternionInterpolator.java
+END
+AnimationProcessorComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1627/trunk/0.5/unstable/RoundEllie4/src/classes/org/jdesktop/wonderland/modules/RoundEllie4/client/AnimationProcessorComponent.java
+END
+RoundEllie4RotationAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1627/trunk/0.5/unstable/RoundEllie4/src/classes/org/jdesktop/wonderland/modules/RoundEllie4/client/RoundEllie4RotationAnimation.java
+END
+RoundEllie4Cell.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1627/trunk/0.5/unstable/RoundEllie4/src/classes/org/jdesktop/wonderland/modules/RoundEllie4/client/RoundEllie4Cell.java
+END
+RoundEllie4ThreeNodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1627/trunk/0.5/unstable/RoundEllie4/src/classes/org/jdesktop/wonderland/modules/RoundEllie4/client/RoundEllie4ThreeNodes.java
+END
+RoundEllie4AllNodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1627/trunk/0.5/unstable/RoundEllie4/src/classes/org/jdesktop/wonderland/modules/RoundEllie4/client/RoundEllie4AllNodes.java
+END
+RoundEllie4MultipleNodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1627/trunk/0.5/unstable/RoundEllie4/src/classes/org/jdesktop/wonderland/modules/RoundEllie4/client/RoundEllie4MultipleNodes.java
+END
+RoundEllie4QuaternionAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1627/trunk/0.5/unstable/RoundEllie4/src/classes/org/jdesktop/wonderland/modules/RoundEllie4/client/RoundEllie4QuaternionAnimation.java
+END
+RoundEllie4VectorInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1627/trunk/0.5/unstable/RoundEllie4/src/classes/org/jdesktop/wonderland/modules/RoundEllie4/client/RoundEllie4VectorInterpolator.java
+END
+RoundEllie4ANode.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1627/trunk/0.5/unstable/RoundEllie4/src/classes/org/jdesktop/wonderland/modules/RoundEllie4/client/RoundEllie4ANode.java
+END
+RoundEllie4Renderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1627/trunk/0.5/unstable/RoundEllie4/src/classes/org/jdesktop/wonderland/modules/RoundEllie4/client/RoundEllie4Renderer.java
+END
+RoundEllie4CellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1627/trunk/0.5/unstable/RoundEllie4/src/classes/org/jdesktop/wonderland/modules/RoundEllie4/client/RoundEllie4CellFactory.java
+END
+RoundEllie4SingleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1627/trunk/0.5/unstable/RoundEllie4/src/classes/org/jdesktop/wonderland/modules/RoundEllie4/client/RoundEllie4SingleNode.java
+END

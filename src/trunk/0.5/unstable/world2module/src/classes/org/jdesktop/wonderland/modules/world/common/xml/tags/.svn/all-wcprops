@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1704/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/common/xml/tags
+END
+SimpleTagContentHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1704/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/common/xml/tags/SimpleTagContentHandlerAdapter.java
+END
+TagHandlerLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1697/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/common/xml/tags/TagHandlerLoader.java
+END
+DependencyListenable.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1704/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/common/xml/tags/DependencyListenable.java
+END
+IgnoreAllFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1697/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/common/xml/tags/IgnoreAllFileFilter.java
+END
+TagContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1704/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/common/xml/tags/TagContentHandler.java
+END
+SimpleModuleConversionTagContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1704/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/common/xml/tags/SimpleModuleConversionTagContentHandler.java
+END
+DependentResourceNotificationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1697/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/common/xml/tags/DependentResourceNotificationListener.java
+END
+ModuleConversionInitializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1704/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/common/xml/tags/ModuleConversionInitializable.java
+END
+ContentHandlingConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1697/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/common/xml/tags/ContentHandlingConstants.java
+END
+ActiveStateListeningTagContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1704/trunk/0.5/unstable/world2module/src/classes/org/jdesktop/wonderland/modules/world/common/xml/tags/ActiveStateListeningTagContentHandler.java
+END

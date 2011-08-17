@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1106/trunk/0.5/unstable/testcells/src/classes/org/jdesktop/wonderland/modules/testcells/common/cell/state
+END
+TestWorldCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1106/trunk/0.5/unstable/testcells/src/classes/org/jdesktop/wonderland/modules/testcells/common/cell/state/TestWorldCellServerState.java
+END
+SimpleShapeCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1106/trunk/0.5/unstable/testcells/src/classes/org/jdesktop/wonderland/modules/testcells/common/cell/state/SimpleShapeCellServerState.java
+END
+SingingTeapotCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1106/trunk/0.5/unstable/testcells/src/classes/org/jdesktop/wonderland/modules/testcells/common/cell/state/SingingTeapotCellServerState.java
+END
+SimpleShapeCellClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1106/trunk/0.5/unstable/testcells/src/classes/org/jdesktop/wonderland/modules/testcells/common/cell/state/SimpleShapeCellClientState.java
+END

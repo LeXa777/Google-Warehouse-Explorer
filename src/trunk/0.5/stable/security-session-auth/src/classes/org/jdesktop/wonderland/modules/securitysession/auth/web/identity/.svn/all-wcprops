@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1218/trunk/0.5/stable/security-session-auth/src/classes/org/jdesktop/wonderland/modules/securitysession/auth/web/identity
+END
+AuthenticateResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1218/trunk/0.5/stable/security-session-auth/src/classes/org/jdesktop/wonderland/modules/securitysession/auth/web/identity/AuthenticateResource.java
+END
+NoAuthResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1218/trunk/0.5/stable/security-session-auth/src/classes/org/jdesktop/wonderland/modules/securitysession/auth/web/identity/NoAuthResource.java
+END

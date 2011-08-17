@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1520/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/common
+END
+MovingPlatformCellChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1520/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/common/MovingPlatformCellChangeMessage.java
+END
+SlideMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1520/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/common/SlideMetadata.java
+END
+PresentationCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1322/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/common/PresentationCellServerState.java
+END
+MovingPlatformCellClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1269/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/common/MovingPlatformCellClientState.java
+END
+PresentationCellChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1322/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/common/PresentationCellChangeMessage.java
+END
+PDFLayoutHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1520/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/common/PDFLayoutHelper.java
+END
+PresentationLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1520/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/common/PresentationLayout.java
+END
+PresentationCellClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1322/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/common/PresentationCellClientState.java
+END
+MovingPlatformCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1520/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/common/MovingPlatformCellServerState.java
+END

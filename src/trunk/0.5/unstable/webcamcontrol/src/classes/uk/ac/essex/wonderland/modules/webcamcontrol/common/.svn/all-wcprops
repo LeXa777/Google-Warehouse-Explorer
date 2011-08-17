@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1694/trunk/0.5/unstable/webcamcontrol/src/classes/uk/ac/essex/wonderland/modules/webcamcontrol/common
+END
+WebcamConnectionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1683/trunk/0.5/unstable/webcamcontrol/src/classes/uk/ac/essex/wonderland/modules/webcamcontrol/common/WebcamConnectionType.java
+END
+WebcamSettingsResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1683/trunk/0.5/unstable/webcamcontrol/src/classes/uk/ac/essex/wonderland/modules/webcamcontrol/common/WebcamSettingsResponseMessage.java
+END
+WebcamCollectionRequestMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1683/trunk/0.5/unstable/webcamcontrol/src/classes/uk/ac/essex/wonderland/modules/webcamcontrol/common/WebcamCollectionRequestMessage.java
+END
+ChangeSettingsMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1683/trunk/0.5/unstable/webcamcontrol/src/classes/uk/ac/essex/wonderland/modules/webcamcontrol/common/ChangeSettingsMessage.java
+END
+WebcamAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1683/trunk/0.5/unstable/webcamcontrol/src/classes/uk/ac/essex/wonderland/modules/webcamcontrol/common/WebcamAction.java
+END
+WebcamRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1694/trunk/0.5/unstable/webcamcontrol/src/classes/uk/ac/essex/wonderland/modules/webcamcontrol/common/WebcamRecord.java
+END
+WebcamSettingsRequestMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1683/trunk/0.5/unstable/webcamcontrol/src/classes/uk/ac/essex/wonderland/modules/webcamcontrol/common/WebcamSettingsRequestMessage.java
+END
+WebcamCollectionResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1683/trunk/0.5/unstable/webcamcontrol/src/classes/uk/ac/essex/wonderland/modules/webcamcontrol/common/WebcamCollectionResponseMessage.java
+END

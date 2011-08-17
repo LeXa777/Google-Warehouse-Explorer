@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1831/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/simplephysics
+END
+RigidBodySettingsPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1831/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/simplephysics/RigidBodySettingsPanel.form
+END
+PhysicsControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1829/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/simplephysics/PhysicsControlPanel.java
+END
+PhysicsControlPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1829/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/simplephysics/PhysicsControlPanel.form
+END
+AddRigidBodyPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1831/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/simplephysics/AddRigidBodyPanel.java
+END
+IndependentBoundsViewerEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1829/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/simplephysics/IndependentBoundsViewerEntity.java
+END
+SimplePhysicsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1831/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/simplephysics/SimplePhysicsManager.java
+END
+AddRigidBodyPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1829/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/simplephysics/AddRigidBodyPanel.form
+END
+SimpleRigidBodyComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1827/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/simplephysics/SimpleRigidBodyComponent.java
+END
+MouseMovedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1828/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/simplephysics/MouseMovedListener.java
+END
+RigidBodySettingsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1831/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/simplephysics/RigidBodySettingsPanel.java
+END
+SimpleRigidBodyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1824/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/simplephysics/SimpleRigidBodyFactory.java
+END

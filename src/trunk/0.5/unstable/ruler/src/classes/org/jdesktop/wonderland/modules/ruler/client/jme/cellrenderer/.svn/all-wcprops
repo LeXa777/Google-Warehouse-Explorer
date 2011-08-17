@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1724/trunk/0.5/unstable/ruler/src/classes/org/jdesktop/wonderland/modules/ruler/client/jme/cellrenderer
+END
+StraightRuler.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1724/trunk/0.5/unstable/ruler/src/classes/org/jdesktop/wonderland/modules/ruler/client/jme/cellrenderer/StraightRuler.java
+END
+MaxTextureSizeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1724/trunk/0.5/unstable/ruler/src/classes/org/jdesktop/wonderland/modules/ruler/client/jme/cellrenderer/MaxTextureSizeUtil.java
+END
+RulerCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1724/trunk/0.5/unstable/ruler/src/classes/org/jdesktop/wonderland/modules/ruler/client/jme/cellrenderer/RulerCellRenderer.java
+END
+RulerImageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1724/trunk/0.5/unstable/ruler/src/classes/org/jdesktop/wonderland/modules/ruler/client/jme/cellrenderer/RulerImageFactory.java
+END
+RulerFace.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1724/trunk/0.5/unstable/ruler/src/classes/org/jdesktop/wonderland/modules/ruler/client/jme/cellrenderer/RulerFace.java
+END
+AbstractRuler.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1724/trunk/0.5/unstable/ruler/src/classes/org/jdesktop/wonderland/modules/ruler/client/jme/cellrenderer/AbstractRuler.java
+END

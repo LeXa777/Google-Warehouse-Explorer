@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1569/trunk/0.5/stable/microphone/src/classes/org/jdesktop/wonderland/modules/microphone/server/cell
+END
+MicrophoneCellMO.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1506/trunk/0.5/stable/microphone/src/classes/org/jdesktop/wonderland/modules/microphone/server/cell/MicrophoneCellMO.java
+END
+MicrophoneComponentMO.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1559/trunk/0.5/stable/microphone/src/classes/org/jdesktop/wonderland/modules/microphone/server/cell/MicrophoneComponentMO.java
+END
+MicrophoneTalkAreaProximityListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1559/trunk/0.5/stable/microphone/src/classes/org/jdesktop/wonderland/modules/microphone/server/cell/MicrophoneTalkAreaProximityListener.java
+END
+MicrophoneListenAreaProximityListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1559/trunk/0.5/stable/microphone/src/classes/org/jdesktop/wonderland/modules/microphone/server/cell/MicrophoneListenAreaProximityListener.java
+END
+MicrophoneBaseProximityListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1569/trunk/0.5/stable/microphone/src/classes/org/jdesktop/wonderland/modules/microphone/server/cell/MicrophoneBaseProximityListener.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/374/trunk/0.5/unstable/sharedstate-test/src/classes/org/jdesktop/wonderland/modules/sharedstatetest/common/recorder
+END
+AudioRecorderCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/374/trunk/0.5/unstable/sharedstate-test/src/classes/org/jdesktop/wonderland/modules/sharedstatetest/common/recorder/AudioRecorderCellServerState.java
+END
+RecorderConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/374/trunk/0.5/unstable/sharedstate-test/src/classes/org/jdesktop/wonderland/modules/sharedstatetest/common/recorder/RecorderConstants.java
+END
+RecorderState.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/374/trunk/0.5/unstable/sharedstate-test/src/classes/org/jdesktop/wonderland/modules/sharedstatetest/common/recorder/RecorderState.java
+END
+Tape.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/374/trunk/0.5/unstable/sharedstate-test/src/classes/org/jdesktop/wonderland/modules/sharedstatetest/common/recorder/Tape.java
+END

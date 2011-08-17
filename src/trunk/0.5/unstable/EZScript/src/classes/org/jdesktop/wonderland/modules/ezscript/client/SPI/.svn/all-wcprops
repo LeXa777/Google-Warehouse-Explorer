@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1778/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/SPI
+END
+ScriptMethodSPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1659/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/SPI/ScriptMethodSPI.java
+END
+ReturnableScriptMethodSPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1659/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/SPI/ReturnableScriptMethodSPI.java
+END
+FarCellEventSPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1631/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/SPI/FarCellEventSPI.java
+END
+RemoteCellMethodSPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1629/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/SPI/RemoteCellMethodSPI.java
+END
+FriendlyErrorInfoSPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1778/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/SPI/FriendlyErrorInfoSPI.java
+END

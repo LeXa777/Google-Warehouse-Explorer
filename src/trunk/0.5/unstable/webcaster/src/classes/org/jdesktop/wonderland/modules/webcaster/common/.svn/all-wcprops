@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1770/trunk/0.5/unstable/webcaster/src/classes/org/jdesktop/wonderland/modules/webcaster/common
+END
+WebcasterCellClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1770/trunk/0.5/unstable/webcaster/src/classes/org/jdesktop/wonderland/modules/webcaster/common/WebcasterCellClientState.java
+END
+WebcasterCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1770/trunk/0.5/unstable/webcaster/src/classes/org/jdesktop/wonderland/modules/webcaster/common/WebcasterCellServerState.java
+END
+WebcasterCellChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1757/trunk/0.5/unstable/webcaster/src/classes/org/jdesktop/wonderland/modules/webcaster/common/WebcasterCellChangeMessage.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1354/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/client/jme
+END
+RotPosScaleTCBSplinePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/810/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/client/jme/RotPosScaleTCBSplinePath.java
+END
+TCBSplinePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/810/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/client/jme/TCBSplinePath.java
+END
+CubicSplineSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/810/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/client/jme/CubicSplineSegment.java
+END
+CubicSplineCurve.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/810/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/client/jme/CubicSplineCurve.java
+END
+SplineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/810/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/client/jme/SplineTest.java
+END
+TrackRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1354/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/client/jme/TrackRenderer.java
+END

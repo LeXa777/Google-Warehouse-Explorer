@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1608/trunk/0.5/unstable/proximity-test/src/classes/org/jdesktop/wonderland/modules/proximitytest/client
+END
+ProximityCellProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1339/trunk/0.5/unstable/proximity-test/src/classes/org/jdesktop/wonderland/modules/proximitytest/client/ProximityCellProperties.java
+END
+ProximityCellProperties.form
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1339/trunk/0.5/unstable/proximity-test/src/classes/org/jdesktop/wonderland/modules/proximitytest/client/ProximityCellProperties.form
+END
+ProximityCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1339/trunk/0.5/unstable/proximity-test/src/classes/org/jdesktop/wonderland/modules/proximitytest/client/ProximityCell.java
+END
+BoundsViewerEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1339/trunk/0.5/unstable/proximity-test/src/classes/org/jdesktop/wonderland/modules/proximitytest/client/BoundsViewerEntity.java
+END
+ProximityCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1339/trunk/0.5/unstable/proximity-test/src/classes/org/jdesktop/wonderland/modules/proximitytest/client/ProximityCellRenderer.java
+END
+ProximityCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1339/trunk/0.5/unstable/proximity-test/src/classes/org/jdesktop/wonderland/modules/proximitytest/client/ProximityCellFactory.java
+END

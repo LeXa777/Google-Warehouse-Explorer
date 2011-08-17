@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1636/trunk/0.5/unstable/snappy
+END
+my.module.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1636/trunk/0.5/unstable/snappy/my.module.properties
+END
+snapease.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1636/trunk/0.5/unstable/snappy/snapease.sh
+END
+save_region.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1636/trunk/0.5/unstable/snappy/save_region.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1636/trunk/0.5/unstable/snappy/build.xml
+END

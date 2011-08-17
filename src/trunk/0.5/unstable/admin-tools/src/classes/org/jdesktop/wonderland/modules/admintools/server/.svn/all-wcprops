@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1818/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/server
+END
+AdminToolsServerPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1570/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/server/AdminToolsServerPlugin.java
+END
+AdminToolsWebConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1607/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/server/AdminToolsWebConnectionHandler.java
+END
+AdminToolsConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1570/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/server/AdminToolsConnectionHandler.java
+END
+AdminToolsComponentMO.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1613/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/server/AdminToolsComponentMO.java
+END
+AdminToolsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1818/trunk/0.5/unstable/admin-tools/src/classes/org/jdesktop/wonderland/modules/admintools/server/AdminToolsUtils.java
+END

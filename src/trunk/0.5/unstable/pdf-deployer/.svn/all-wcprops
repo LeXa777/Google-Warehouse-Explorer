@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1526/trunk/0.5/unstable/pdf-deployer
+END
+my.module.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1270/trunk/0.5/unstable/pdf-deployer/my.module.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1526/trunk/0.5/unstable/pdf-deployer/build.xml
+END

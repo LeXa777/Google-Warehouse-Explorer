@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1775/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client
+END
+ServerMessageSendingPathStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1774/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ServerMessageSendingPathStyle.java
+END
+ClientNodePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ClientNodePath.java
+END
+ClientPathNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1774/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ClientPathNode.java
+END
+PathSegmentComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1749/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/PathSegmentComponent.java
+END
+IndexedPathNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1774/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/IndexedPathNode.java
+END
+PathCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1767/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/PathCellFactory.java
+END
+ServerMessageSendingClientNodePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1775/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ServerMessageSendingClientNodePath.java
+END
+PathNodeComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1749/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/PathNodeComponent.java
+END
+PathCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1767/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/PathCell.java
+END
+InternalClientNodePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1775/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/InternalClientNodePath.java
+END

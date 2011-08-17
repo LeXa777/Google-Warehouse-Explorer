@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1687/trunk/0.5/unstable/top-map/src/classes/org/jdesktop/wonderland/modules/topmap/client
+END
+CaptureJComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1183/trunk/0.5/unstable/top-map/src/classes/org/jdesktop/wonderland/modules/topmap/client/CaptureJComponent.java
+END
+TopMapCameraEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1687/trunk/0.5/unstable/top-map/src/classes/org/jdesktop/wonderland/modules/topmap/client/TopMapCameraEntity.java
+END
+TopMapJPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1625/trunk/0.5/unstable/top-map/src/classes/org/jdesktop/wonderland/modules/topmap/client/TopMapJPanel.java
+END
+TopMapJPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1194/trunk/0.5/unstable/top-map/src/classes/org/jdesktop/wonderland/modules/topmap/client/TopMapJPanel.form
+END
+TopMapClientPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1224/trunk/0.5/unstable/top-map/src/classes/org/jdesktop/wonderland/modules/topmap/client/TopMapClientPlugin.java
+END

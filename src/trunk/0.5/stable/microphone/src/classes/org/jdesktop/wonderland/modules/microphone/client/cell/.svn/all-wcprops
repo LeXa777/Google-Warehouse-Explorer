@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1608/trunk/0.5/stable/microphone/src/classes/org/jdesktop/wonderland/modules/microphone/client/cell
+END
+MicrophoneCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1506/trunk/0.5/stable/microphone/src/classes/org/jdesktop/wonderland/modules/microphone/client/cell/MicrophoneCell.java
+END
+MicrophoneComponentProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1485/trunk/0.5/stable/microphone/src/classes/org/jdesktop/wonderland/modules/microphone/client/cell/MicrophoneComponentProperties.java
+END
+MicrophoneComponentProperties.form
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1485/trunk/0.5/stable/microphone/src/classes/org/jdesktop/wonderland/modules/microphone/client/cell/MicrophoneComponentProperties.form
+END
+MicrophoneMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1550/trunk/0.5/stable/microphone/src/classes/org/jdesktop/wonderland/modules/microphone/client/cell/MicrophoneMessageHandler.java
+END
+MicrophoneComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1506/trunk/0.5/stable/microphone/src/classes/org/jdesktop/wonderland/modules/microphone/client/cell/MicrophoneComponent.java
+END
+MicrophoneCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1506/trunk/0.5/stable/microphone/src/classes/org/jdesktop/wonderland/modules/microphone/client/cell/MicrophoneCellFactory.java
+END
+MicrophoneComponentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1506/trunk/0.5/stable/microphone/src/classes/org/jdesktop/wonderland/modules/microphone/client/cell/MicrophoneComponentFactory.java
+END

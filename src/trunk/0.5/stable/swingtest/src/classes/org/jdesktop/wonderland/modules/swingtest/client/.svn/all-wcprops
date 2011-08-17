@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1608/trunk/0.5/stable/swingtest/src/classes/org/jdesktop/wonderland/modules/swingtest/client
+END
+SwingTestWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1220/trunk/0.5/stable/swingtest/src/classes/org/jdesktop/wonderland/modules/swingtest/client/SwingTestWindow.java
+END
+TestPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1099/trunk/0.5/stable/swingtest/src/classes/org/jdesktop/wonderland/modules/swingtest/client/TestPanel.java
+END
+SwingTestCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1099/trunk/0.5/stable/swingtest/src/classes/org/jdesktop/wonderland/modules/swingtest/client/SwingTestCellFactory.java
+END
+TestTestPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1099/trunk/0.5/stable/swingtest/src/classes/org/jdesktop/wonderland/modules/swingtest/client/TestTestPanel.java
+END
+TestPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1099/trunk/0.5/stable/swingtest/src/classes/org/jdesktop/wonderland/modules/swingtest/client/TestPanel.form
+END
+SwingTestApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1099/trunk/0.5/stable/swingtest/src/classes/org/jdesktop/wonderland/modules/swingtest/client/SwingTestApp.java
+END

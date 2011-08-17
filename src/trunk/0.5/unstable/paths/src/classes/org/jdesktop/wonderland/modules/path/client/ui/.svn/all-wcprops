@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1775/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ui
+END
+NodePathPropertiesPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1774/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ui/NodePathPropertiesPanel.java
+END
+DeleteNodeMenuListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ui/DeleteNodeMenuListener.java
+END
+MoveNodeToAvatarMenuListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1775/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ui/MoveNodeToAvatarMenuListener.java
+END
+NodePathProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1774/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ui/NodePathProperties.java
+END
+ToggleClosedPathMenuListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ui/ToggleClosedPathMenuListener.java
+END
+InsertNodePositionable.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ui/InsertNodePositionable.java
+END
+NodePathContextMenuFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1767/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ui/NodePathContextMenuFactory.java
+END
+EntityContextMenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1749/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ui/EntityContextMenuItem.java
+END
+InsertNodeOnSegmentMenuListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1775/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ui/InsertNodeOnSegmentMenuListener.java
+END
+DebugOutputDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1775/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ui/DebugOutputDialog.java
+END
+ToggleEditModeMenuListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ui/ToggleEditModeMenuListener.java
+END
+Positionable.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ui/Positionable.java
+END
+AddNodeMenuListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ui/AddNodeMenuListener.java
+END
+InsertNodeAfterNodeMenuListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1775/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ui/InsertNodeAfterNodeMenuListener.java
+END
+HeightChoiceDialogRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1775/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ui/HeightChoiceDialogRunner.java
+END
+InsertNodeBeforeNodeMenuListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1775/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/client/ui/InsertNodeBeforeNodeMenuListener.java
+END

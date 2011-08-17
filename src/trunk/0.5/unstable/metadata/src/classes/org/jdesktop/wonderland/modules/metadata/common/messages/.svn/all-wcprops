@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1523/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/messages
+END
+MetadataModResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/741/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/messages/MetadataModResponseMessage.java
+END
+MetadataConnectionResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/741/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/messages/MetadataConnectionResponseMessage.java
+END
+MetadataConnectionMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1523/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/messages/MetadataConnectionMessage.java
+END
+MetadataConnectionModMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1523/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/messages/MetadataConnectionModMessage.java
+END
+MetadataModMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/684/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/messages/MetadataModMessage.java
+END
+MetadataCacheResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/684/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/messages/MetadataCacheResponseMessage.java
+END
+MetadataCacheMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/651/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/messages/MetadataCacheMessage.java
+END
+MetadataCellInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/741/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/messages/MetadataCellInfo.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1565/trunk/0.5/stable/security-session-auth/src/classes/org/jdesktop/wonderland/modules/securitysession/auth/web
+END
+SecuritySetupContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1565/trunk/0.5/stable/security-session-auth/src/classes/org/jdesktop/wonderland/modules/securitysession/auth/web/SecuritySetupContextListener.java
+END
+LoginServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1218/trunk/0.5/stable/security-session-auth/src/classes/org/jdesktop/wonderland/modules/securitysession/auth/web/LoginServlet.java
+END
+UserManagerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1097/trunk/0.5/stable/security-session-auth/src/classes/org/jdesktop/wonderland/modules/securitysession/auth/web/UserManagerServlet.java
+END

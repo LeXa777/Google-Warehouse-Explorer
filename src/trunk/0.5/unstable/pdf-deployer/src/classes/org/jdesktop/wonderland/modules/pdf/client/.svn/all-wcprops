@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1516/trunk/0.5/unstable/pdf-deployer/src/classes/org/jdesktop/wonderland/modules/pdf/client
+END
+DeployedPDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1270/trunk/0.5/unstable/pdf-deployer/src/classes/org/jdesktop/wonderland/modules/pdf/client/DeployedPDF.java
+END
+PDFContentImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1516/trunk/0.5/unstable/pdf-deployer/src/classes/org/jdesktop/wonderland/modules/pdf/client/PDFContentImporter.java
+END
+PDFDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1271/trunk/0.5/unstable/pdf-deployer/src/classes/org/jdesktop/wonderland/modules/pdf/client/PDFDeployer.java
+END

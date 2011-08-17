@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1635/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/cell
+END
+NpcCellProperties.form
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1635/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/cell/NpcCellProperties.form
+END
+NpcControllerFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1635/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/cell/NpcControllerFrame.java
+END
+NpcCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1635/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/cell/NpcCell.java
+END
+NpcControllerFrame.form
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1635/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/cell/NpcControllerFrame.form
+END
+NpcControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1635/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/cell/NpcControls.java
+END
+NpcChair.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1635/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/cell/NpcChair.java
+END
+NpcCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1635/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/cell/NpcCellFactory.java
+END
+NpcAvatarConfigComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1635/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/cell/NpcAvatarConfigComponent.java
+END
+MovableNpcComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1635/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/cell/MovableNpcComponent.java
+END
+PickGeometryEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1635/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/cell/PickGeometryEditor.java
+END
+PickGeometryEditor.form
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1635/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/cell/PickGeometryEditor.form
+END
+NpcCellProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1635/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/cell/NpcCellProperties.java
+END

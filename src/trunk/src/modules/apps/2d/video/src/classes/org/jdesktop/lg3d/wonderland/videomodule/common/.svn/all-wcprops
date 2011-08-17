@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/318/trunk/src/modules/apps/2d/video/src/classes/org/jdesktop/lg3d/wonderland/videomodule/common
+END
+Axis212PTZCamera.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/236/trunk/src/modules/apps/2d/video/src/classes/org/jdesktop/lg3d/wonderland/videomodule/common/Axis212PTZCamera.java
+END
+MovieSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/57/trunk/src/modules/apps/2d/video/src/classes/org/jdesktop/lg3d/wonderland/videomodule/common/MovieSource.java
+END
+JMFSnapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/298/trunk/src/modules/apps/2d/video/src/classes/org/jdesktop/lg3d/wonderland/videomodule/common/JMFSnapper.java
+END
+PTZCamera.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/104/trunk/src/modules/apps/2d/video/src/classes/org/jdesktop/lg3d/wonderland/videomodule/common/PTZCamera.java
+END
+VideoSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/57/trunk/src/modules/apps/2d/video/src/classes/org/jdesktop/lg3d/wonderland/videomodule/common/VideoSource.java
+END
+VideoCellSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/278/trunk/src/modules/apps/2d/video/src/classes/org/jdesktop/lg3d/wonderland/videomodule/common/VideoCellSetup.java
+END
+Camera.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/57/trunk/src/modules/apps/2d/video/src/classes/org/jdesktop/lg3d/wonderland/videomodule/common/Camera.java
+END
+VideoSourceDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/50/trunk/src/modules/apps/2d/video/src/classes/org/jdesktop/lg3d/wonderland/videomodule/common/VideoSourceDialog.form
+END
+SimpleMovie.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/104/trunk/src/modules/apps/2d/video/src/classes/org/jdesktop/lg3d/wonderland/videomodule/common/SimpleMovie.java
+END
+VideoCellMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/312/trunk/src/modules/apps/2d/video/src/classes/org/jdesktop/lg3d/wonderland/videomodule/common/VideoCellMessage.java
+END
+HTTPDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/318/trunk/src/modules/apps/2d/video/src/classes/org/jdesktop/lg3d/wonderland/videomodule/common/HTTPDownloader.java
+END

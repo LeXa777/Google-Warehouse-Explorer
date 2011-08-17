@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1608/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources
+END
+pdfviewer_preview.png
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/pdfviewer_preview.png
+END
+PDFviewer32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewer32x32.png
+END
+PDFviewerDock32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewerDock32x32.png
+END
+PDFviewerApp32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewerApp32x32.png
+END
+PDFviewerSyncedNo32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewerSyncedNo32x32.png
+END
+Bundle_el.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1590/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/Bundle_el.properties
+END
+PDFviewerUndock32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewerUndock32x32.png
+END
+Bundle_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1589/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/Bundle_zh_CN.properties
+END
+PDFviewerPageFirst32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewerPageFirst32x32.png
+END
+Bundle_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1608/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/Bundle_es.properties
+END
+Bundle_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1603/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/Bundle_fr.properties
+END
+PDFviewerApp128x128.png
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1039/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewerApp128x128.png
+END
+PDFviewerPageLast32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewerPageLast32x32.png
+END
+PDFviewerOpen32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewerOpen32x32.png
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1462/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/Bundle.properties
+END
+PDFviewerPageGoto32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewerPageGoto32x32.png
+END
+PDFviewerPlay32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewerPlay32x32.png
+END
+PDFviewerSyncedYes32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewerSyncedYes32x32.png
+END
+PDFviewerPagePrev32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewerPagePrev32x32.png
+END
+Bundle_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1462/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/Bundle_de.properties
+END
+PDFviewerZoomIn32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewerZoomIn32x32.png
+END
+PDFviewerPageNext32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewerPageNext32x32.png
+END
+PDFviewerZoomOut32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewerZoomOut32x32.png
+END
+PDFviewerDrag32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1045/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewerDrag32x32.png
+END
+PDFviewerPause32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1026/trunk/0.5/stable/pdfviewer/src/classes/org/jdesktop/wonderland/modules/pdfviewer/client/resources/PDFviewerPause32x32.png
+END

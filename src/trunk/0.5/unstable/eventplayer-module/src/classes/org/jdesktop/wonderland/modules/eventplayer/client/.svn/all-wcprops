@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1608/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/client
+END
+RotationAnimationProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/603/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/client/RotationAnimationProcessor.java
+END
+AnimationProcessorComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/603/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/client/AnimationProcessorComponent.java
+END
+EventPlayerCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/710/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/client/EventPlayerCellRenderer.java
+END
+EventPlayerCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1387/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/client/EventPlayerCellFactory.java
+END
+ScaleAnimationProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/670/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/client/ScaleAnimationProcessor.java
+END
+ReelForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1387/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/client/ReelForm.java
+END
+ReelForm.form
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1387/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/client/ReelForm.form
+END
+EventPlayerCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1512/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/client/EventPlayerCell.java
+END
+TranslationAnimationProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/670/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/client/TranslationAnimationProcessor.java
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1608/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources
+END
+WhiteboardToggleHUD32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/412/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/WhiteboardToggleHUD32x32.png
+END
+WhiteboardDrawRectangle32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/402/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/WhiteboardDrawRectangle32x32.png
+END
+WhiteboardUndock32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/458/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/WhiteboardUndock32x32.png
+END
+WhiteboardEditStrokeFill32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/402/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/WhiteboardEditStrokeFill32x32.png
+END
+green.png
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/352/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/green.png
+END
+Bundle_el.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1590/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/Bundle_el.properties
+END
+WhiteboardFill32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/402/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/WhiteboardFill32x32.png
+END
+Bundle_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1589/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/Bundle_zh_CN.properties
+END
+WhiteboardNewDocument32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/458/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/WhiteboardNewDocument32x32.png
+END
+WhiteboardApp128x128.png
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1037/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/WhiteboardApp128x128.png
+END
+WhiteboardAddText32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/402/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/WhiteboardAddText32x32.png
+END
+Bundle_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1608/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/Bundle_es.properties
+END
+Bundle_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1603/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/Bundle_fr.properties
+END
+red.png
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/352/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/red.png
+END
+black.png
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/352/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/black.png
+END
+white.png
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/352/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/white.png
+END
+WhiteboardDrawLine32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/402/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/WhiteboardDrawLine32x32.png
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1467/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/Bundle.properties
+END
+WhiteboardDrawEllipse32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/402/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/WhiteboardDrawEllipse32x32.png
+END
+blue.png
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/352/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/blue.png
+END
+WhiteboardSync32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/458/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/WhiteboardSync32x32.png
+END
+blank.png
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/404/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/blank.png
+END
+WhiteboardDrag32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1043/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/WhiteboardDrag32x32.png
+END
+Bundle_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1467/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/Bundle_de.properties
+END
+WhiteboardUnsync32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/458/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/WhiteboardUnsync32x32.png
+END
+WhiteboardSelect32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/402/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/WhiteboardSelect32x32.png
+END
+WhiteboardDock32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/458/trunk/0.5/stable/whiteboard/src/classes/org/jdesktop/wonderland/modules/whiteboard/client/resources/WhiteboardDock32x32.png
+END

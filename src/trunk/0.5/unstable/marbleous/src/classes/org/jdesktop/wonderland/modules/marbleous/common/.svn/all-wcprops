@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1433/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/common
+END
+TrackManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1354/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/common/TrackManager.java
+END
+RightTurnTrackSegmentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1361/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/common/RightTurnTrackSegmentType.java
+END
+BigDropTrackSegmentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1361/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/common/BigDropTrackSegmentType.java
+END
+Track.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1354/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/common/Track.java
+END
+BumpTrackSegmentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/922/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/common/BumpTrackSegmentType.java
+END
+LeftTurnTrackSegmentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1361/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/common/LeftTurnTrackSegmentType.java
+END
+LoopSegmentSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/948/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/common/LoopSegmentSettings.java
+END
+LoopTrackSegmentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/972/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/common/LoopTrackSegmentType.java
+END
+SegmentSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/948/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/common/SegmentSettings.java
+END
+StraightDropTrackSegmentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1361/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/common/StraightDropTrackSegmentType.java
+END
+TrackSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1433/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/common/TrackSegment.java
+END
+StraightLevelTrackSegmentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1361/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/common/StraightLevelTrackSegmentType.java
+END
+TrackSegmentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/948/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/common/TrackSegmentType.java
+END
+BigDropSegmentSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/972/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/common/BigDropSegmentSettings.java
+END
+TCBKeyFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1433/trunk/0.5/unstable/marbleous/src/classes/org/jdesktop/wonderland/modules/marbleous/common/TCBKeyFrame.java
+END

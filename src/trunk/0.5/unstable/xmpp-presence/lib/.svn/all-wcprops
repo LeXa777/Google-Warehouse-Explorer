@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/526/trunk/0.5/unstable/xmpp-presence/lib
+END
+smackx.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/526/trunk/0.5/unstable/xmpp-presence/lib/smackx.jar
+END
+smack.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/526/trunk/0.5/unstable/xmpp-presence/lib/smack.jar
+END
+smack-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/526/trunk/0.5/unstable/xmpp-presence/lib/smack-license.txt
+END

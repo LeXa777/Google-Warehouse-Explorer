@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1652/trunk/0.5/stable/clickablelink/src/classes/org/jdesktop/wonderland/modules/rockwellcollins/clickablelink/client
+END
+ClickableLinkComponentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1501/trunk/0.5/stable/clickablelink/src/classes/org/jdesktop/wonderland/modules/rockwellcollins/clickablelink/client/ClickableLinkComponentFactory.java
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1487/trunk/0.5/stable/clickablelink/src/classes/org/jdesktop/wonderland/modules/rockwellcollins/clickablelink/client/Bundle.properties
+END
+Bundle_el.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1590/trunk/0.5/stable/clickablelink/src/classes/org/jdesktop/wonderland/modules/rockwellcollins/clickablelink/client/Bundle_el.properties
+END
+Bundle_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1589/trunk/0.5/stable/clickablelink/src/classes/org/jdesktop/wonderland/modules/rockwellcollins/clickablelink/client/Bundle_zh_CN.properties
+END
+ClickableLinkComponentProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1501/trunk/0.5/stable/clickablelink/src/classes/org/jdesktop/wonderland/modules/rockwellcollins/clickablelink/client/ClickableLinkComponentProperties.java
+END
+ClickableLinkComponentProperties.form
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1472/trunk/0.5/stable/clickablelink/src/classes/org/jdesktop/wonderland/modules/rockwellcollins/clickablelink/client/ClickableLinkComponentProperties.form
+END
+ClickableLinkComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1501/trunk/0.5/stable/clickablelink/src/classes/org/jdesktop/wonderland/modules/rockwellcollins/clickablelink/client/ClickableLinkComponent.java
+END
+Bundle_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1608/trunk/0.5/stable/clickablelink/src/classes/org/jdesktop/wonderland/modules/rockwellcollins/clickablelink/client/Bundle_es.properties
+END
+Bundle_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1652/trunk/0.5/stable/clickablelink/src/classes/org/jdesktop/wonderland/modules/rockwellcollins/clickablelink/client/Bundle_fr.properties
+END
+Bundle_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1487/trunk/0.5/stable/clickablelink/src/classes/org/jdesktop/wonderland/modules/rockwellcollins/clickablelink/client/Bundle_de.properties
+END

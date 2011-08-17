@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1591/trunk/0.5/unstable/waypost/src/classes/org/jdesktop/wonderland/modules/waypost/client/resources
+END
+module.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1591/trunk/0.5/unstable/waypost/src/classes/org/jdesktop/wonderland/modules/waypost/client/resources/module.properties
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1591/trunk/0.5/unstable/waypost/src/classes/org/jdesktop/wonderland/modules/waypost/client/resources/Bundle.properties
+END
+mouse1.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1591/trunk/0.5/unstable/waypost/src/classes/org/jdesktop/wonderland/modules/waypost/client/resources/mouse1.js
+END
+mouse1s.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1591/trunk/0.5/unstable/waypost/src/classes/org/jdesktop/wonderland/modules/waypost/client/resources/mouse1s.js
+END
+startup.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1591/trunk/0.5/unstable/waypost/src/classes/org/jdesktop/wonderland/modules/waypost/client/resources/startup.js
+END

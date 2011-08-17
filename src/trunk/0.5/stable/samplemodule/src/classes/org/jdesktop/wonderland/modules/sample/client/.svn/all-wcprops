@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1608/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/client
+END
+SampleCellProperties.form
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1099/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/client/SampleCellProperties.form
+END
+SampleComponentProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1099/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/client/SampleComponentProperties.java
+END
+SampleCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1099/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/client/SampleCell.java
+END
+SampleComponentProperties.form
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1099/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/client/SampleComponentProperties.form
+END
+SampleCellComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1099/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/client/SampleCellComponent.java
+END
+SampleRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1136/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/client/SampleRenderer.java
+END
+SampleCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1136/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/client/SampleCellFactory.java
+END
+SampleCellComponentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1099/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/client/SampleCellComponentFactory.java
+END
+SampleCellSubComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1099/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/client/SampleCellSubComponent.java
+END
+SampleCellProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1099/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/client/SampleCellProperties.java
+END

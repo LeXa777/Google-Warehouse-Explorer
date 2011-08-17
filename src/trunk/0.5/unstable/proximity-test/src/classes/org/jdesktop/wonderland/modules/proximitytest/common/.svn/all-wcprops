@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1339/trunk/0.5/unstable/proximity-test/src/classes/org/jdesktop/wonderland/modules/proximitytest/common
+END
+ProximityEnterExitMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1339/trunk/0.5/unstable/proximity-test/src/classes/org/jdesktop/wonderland/modules/proximitytest/common/ProximityEnterExitMessage.java
+END
+ProximityCellClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1339/trunk/0.5/unstable/proximity-test/src/classes/org/jdesktop/wonderland/modules/proximitytest/common/ProximityCellClientState.java
+END
+ProximityCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1339/trunk/0.5/unstable/proximity-test/src/classes/org/jdesktop/wonderland/modules/proximitytest/common/ProximityCellServerState.java
+END

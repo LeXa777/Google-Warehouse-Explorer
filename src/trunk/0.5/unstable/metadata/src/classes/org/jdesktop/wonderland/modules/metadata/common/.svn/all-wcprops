@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1523/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common
+END
+MetadataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/684/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/MetadataException.java
+END
+MetadataSearchFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/741/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/MetadataSearchFilters.java
+END
+Metadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/741/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/Metadata.java
+END
+MetadataConnectionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1523/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/MetadataConnectionType.java
+END
+ModifyCacheAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/684/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/ModifyCacheAction.java
+END
+MetadataSampleCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/565/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/MetadataSampleCellServerState.java
+END
+MetadataComponentServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/684/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/MetadataComponentServerState.java
+END
+MetadataModificationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1523/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/MetadataModificationListener.java
+END
+MetadataID.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/684/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/MetadataID.java
+END
+MetadataValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/684/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/common/MetadataValue.java
+END

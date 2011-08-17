@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1774/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/style/segment
+END
+InvisibleSegmentStyleBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1732/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/style/segment/InvisibleSegmentStyleBuilder.java
+END
+CoreSegmentStyleTypeResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1729/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/style/segment/CoreSegmentStyleTypeResolver.java
+END
+SegmentStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1774/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/style/segment/SegmentStyle.java
+END
+TapeSegmentStyleBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/style/segment/TapeSegmentStyleBuilder.java
+END
+SegmentStyleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1729/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/style/segment/SegmentStyleType.java
+END
+SegmentStyleBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1732/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/style/segment/SegmentStyleBuilder.java
+END
+CoreSegmentStyleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1732/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/style/segment/CoreSegmentStyleType.java
+END

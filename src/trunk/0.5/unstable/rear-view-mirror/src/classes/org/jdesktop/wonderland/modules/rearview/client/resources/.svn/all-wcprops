@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1608/trunk/0.5/unstable/rear-view-mirror/src/classes/org/jdesktop/wonderland/modules/rearview/client/resources
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1213/trunk/0.5/unstable/rear-view-mirror/src/classes/org/jdesktop/wonderland/modules/rearview/client/resources/Bundle.properties
+END
+Bundle_el.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1590/trunk/0.5/unstable/rear-view-mirror/src/classes/org/jdesktop/wonderland/modules/rearview/client/resources/Bundle_el.properties
+END
+Bundle_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1589/trunk/0.5/unstable/rear-view-mirror/src/classes/org/jdesktop/wonderland/modules/rearview/client/resources/Bundle_zh_CN.properties
+END
+Bundle_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1608/trunk/0.5/unstable/rear-view-mirror/src/classes/org/jdesktop/wonderland/modules/rearview/client/resources/Bundle_es.properties
+END
+Bundle_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1603/trunk/0.5/unstable/rear-view-mirror/src/classes/org/jdesktop/wonderland/modules/rearview/client/resources/Bundle_fr.properties
+END

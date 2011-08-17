@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1608/trunk/0.5/stable/samplemodule
+END
+my.module.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1457/trunk/0.5/stable/samplemodule/my.module.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1099/trunk/0.5/stable/samplemodule/build.xml
+END

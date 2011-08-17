@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1637/trunk/0.5/unstable/poster/src/classes/org/jdesktop/wonderland/modules/poster/client
+END
+PosterForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1489/trunk/0.5/unstable/poster/src/classes/org/jdesktop/wonderland/modules/poster/client/PosterForm.java
+END
+PosterNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1637/trunk/0.5/unstable/poster/src/classes/org/jdesktop/wonderland/modules/poster/client/PosterNode.java
+END
+PosterForm.form
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1489/trunk/0.5/unstable/poster/src/classes/org/jdesktop/wonderland/modules/poster/client/PosterForm.form
+END
+PosterWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1637/trunk/0.5/unstable/poster/src/classes/org/jdesktop/wonderland/modules/poster/client/PosterWindow.java
+END
+PosterCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1637/trunk/0.5/unstable/poster/src/classes/org/jdesktop/wonderland/modules/poster/client/PosterCellFactory.java
+END
+PosterPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1637/trunk/0.5/unstable/poster/src/classes/org/jdesktop/wonderland/modules/poster/client/PosterPanel.java
+END
+PosterCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1637/trunk/0.5/unstable/poster/src/classes/org/jdesktop/wonderland/modules/poster/client/PosterCell.java
+END
+PosterApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1637/trunk/0.5/unstable/poster/src/classes/org/jdesktop/wonderland/modules/poster/client/PosterApp.java
+END
+PosterPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1637/trunk/0.5/unstable/poster/src/classes/org/jdesktop/wonderland/modules/poster/client/PosterPanel.form
+END

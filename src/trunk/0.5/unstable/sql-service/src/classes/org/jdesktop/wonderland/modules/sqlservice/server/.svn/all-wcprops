@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1530/trunk/0.5/unstable/sql-service/src/classes/org/jdesktop/wonderland/modules/sqlservice/server
+END
+BaseSqlRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1530/trunk/0.5/unstable/sql-service/src/classes/org/jdesktop/wonderland/modules/sqlservice/server/BaseSqlRunnable.java
+END
+SqlServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1530/trunk/0.5/unstable/sql-service/src/classes/org/jdesktop/wonderland/modules/sqlservice/server/SqlServiceImpl.java
+END
+SqlRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1530/trunk/0.5/unstable/sql-service/src/classes/org/jdesktop/wonderland/modules/sqlservice/server/SqlRunnable.java
+END
+SqlManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1530/trunk/0.5/unstable/sql-service/src/classes/org/jdesktop/wonderland/modules/sqlservice/server/SqlManager.java
+END
+SqlCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1530/trunk/0.5/unstable/sql-service/src/classes/org/jdesktop/wonderland/modules/sqlservice/server/SqlCallback.java
+END

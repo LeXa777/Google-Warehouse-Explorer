@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1824/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/common/simplephysics
+END
+SimpleRigidBodyClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1824/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/common/simplephysics/SimpleRigidBodyClientState.java
+END
+SimpleRigidBodyServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1824/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/common/simplephysics/SimpleRigidBodyServerState.java
+END

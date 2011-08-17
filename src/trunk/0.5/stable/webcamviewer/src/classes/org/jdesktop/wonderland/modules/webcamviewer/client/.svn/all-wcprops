@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1608/trunk/0.5/stable/webcamviewer/src/classes/org/jdesktop/wonderland/modules/webcamviewer/client
+END
+WebcamViewerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1597/trunk/0.5/stable/webcamviewer/src/classes/org/jdesktop/wonderland/modules/webcamviewer/client/WebcamViewerPanel.java
+END
+WebcamViewerControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1566/trunk/0.5/stable/webcamviewer/src/classes/org/jdesktop/wonderland/modules/webcamviewer/client/WebcamViewerControlPanel.java
+END
+WebcamViewerApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1236/trunk/0.5/stable/webcamviewer/src/classes/org/jdesktop/wonderland/modules/webcamviewer/client/WebcamViewerApp.java
+END
+WebcamViewerPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1566/trunk/0.5/stable/webcamviewer/src/classes/org/jdesktop/wonderland/modules/webcamviewer/client/WebcamViewerPanel.form
+END
+WebcamViewerControlPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1566/trunk/0.5/stable/webcamviewer/src/classes/org/jdesktop/wonderland/modules/webcamviewer/client/WebcamViewerControlPanel.form
+END
+WebcamViewerDragGestureListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1236/trunk/0.5/stable/webcamviewer/src/classes/org/jdesktop/wonderland/modules/webcamviewer/client/WebcamViewerDragGestureListener.java
+END
+WebcamViewerControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1566/trunk/0.5/stable/webcamviewer/src/classes/org/jdesktop/wonderland/modules/webcamviewer/client/WebcamViewerControls.java
+END
+WebcamViewerToolListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1566/trunk/0.5/stable/webcamviewer/src/classes/org/jdesktop/wonderland/modules/webcamviewer/client/WebcamViewerToolListener.java
+END
+WebcamViewerCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1236/trunk/0.5/stable/webcamviewer/src/classes/org/jdesktop/wonderland/modules/webcamviewer/client/WebcamViewerCellFactory.java
+END
+WebcamViewerWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1566/trunk/0.5/stable/webcamviewer/src/classes/org/jdesktop/wonderland/modules/webcamviewer/client/WebcamViewerWindow.java
+END
+WebcamViewerToolManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1597/trunk/0.5/stable/webcamviewer/src/classes/org/jdesktop/wonderland/modules/webcamviewer/client/WebcamViewerToolManager.java
+END
+WebcamViewerStateTransferable.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1236/trunk/0.5/stable/webcamviewer/src/classes/org/jdesktop/wonderland/modules/webcamviewer/client/WebcamViewerStateTransferable.java
+END
+WebcamViewerConnectPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1525/trunk/0.5/stable/webcamviewer/src/classes/org/jdesktop/wonderland/modules/webcamviewer/client/WebcamViewerConnectPanel.java
+END
+WebcamViewerConnectPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1525/trunk/0.5/stable/webcamviewer/src/classes/org/jdesktop/wonderland/modules/webcamviewer/client/WebcamViewerConnectPanel.form
+END

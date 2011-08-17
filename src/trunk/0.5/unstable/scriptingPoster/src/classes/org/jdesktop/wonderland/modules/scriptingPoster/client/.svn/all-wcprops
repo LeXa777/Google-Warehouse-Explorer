@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1592/trunk/0.5/unstable/scriptingPoster/src/classes/org/jdesktop/wonderland/modules/scriptingPoster/client
+END
+ScriptingPosterCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1592/trunk/0.5/unstable/scriptingPoster/src/classes/org/jdesktop/wonderland/modules/scriptingPoster/client/ScriptingPosterCell.java
+END
+ScriptingPosterForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1592/trunk/0.5/unstable/scriptingPoster/src/classes/org/jdesktop/wonderland/modules/scriptingPoster/client/ScriptingPosterForm.java
+END
+ScriptingPosterNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1592/trunk/0.5/unstable/scriptingPoster/src/classes/org/jdesktop/wonderland/modules/scriptingPoster/client/ScriptingPosterNode.java
+END
+ScriptingPosterForm.form
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1592/trunk/0.5/unstable/scriptingPoster/src/classes/org/jdesktop/wonderland/modules/scriptingPoster/client/ScriptingPosterForm.form
+END
+ScriptingPosterCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1592/trunk/0.5/unstable/scriptingPoster/src/classes/org/jdesktop/wonderland/modules/scriptingPoster/client/ScriptingPosterCellRenderer.java
+END
+ScriptingPosterCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1592/trunk/0.5/unstable/scriptingPoster/src/classes/org/jdesktop/wonderland/modules/scriptingPoster/client/ScriptingPosterCellFactory.java
+END

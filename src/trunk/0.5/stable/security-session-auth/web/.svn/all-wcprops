@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1446/trunk/0.5/stable/security-session-auth/web
+END
+edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1229/trunk/0.5/stable/security-session-auth/web/edit.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1229/trunk/0.5/stable/security-session-auth/web/login.jsp
+END
+view.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1229/trunk/0.5/stable/security-session-auth/web/view.jsp
+END

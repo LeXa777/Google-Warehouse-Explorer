@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/serverclient
+END
+ServerClientMessageTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/serverclient/ServerClientMessageTypes.java
+END
+RestartProgramMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1104/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/serverclient/RestartProgramMessage.java
+END
+EventListMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/serverclient/EventListMessage.java
+END
+PlaybackSpeedChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1016/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/serverclient/PlaybackSpeedChangeMessage.java
+END
+VisibilityChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1104/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/serverclient/VisibilityChangeMessage.java
+END
+EventResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/serverclient/EventResponseMessage.java
+END
+ConnectionChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1104/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/serverclient/ConnectionChangeMessage.java
+END
+SceneTitleChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1104/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/serverclient/SceneTitleChangeMessage.java
+END
+MouseButtonEventMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1104/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/serverclient/MouseButtonEventMessage.java
+END
+AvailableResponsesChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/serverclient/AvailableResponsesChangeMessage.java
+END

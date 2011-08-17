@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/events/responses
+END
+NoArgumentFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/events/responses/NoArgumentFunction.java
+END
+CMUResponseFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/events/responses/CMUResponseFunction.java
+END
+AvatarPositionFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/events/responses/AvatarPositionFunction.java
+END
+CMUResponseFunctionTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/events/responses/CMUResponseFunctionTypes.java
+END

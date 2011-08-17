@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1775/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common
+END
+FloatValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/FloatValue.java
+END
+NodePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1775/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/NodePath.java
+END
+PathNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1774/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/PathNode.java
+END
+PathNodeState.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1774/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/PathNodeState.java
+END
+SimpleIntegerValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/SimpleIntegerValue.java
+END
+MutableIntegerValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/MutableIntegerValue.java
+END
+SimpleURIValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/SimpleURIValue.java
+END
+MutableURIValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/MutableURIValue.java
+END
+IntegerValueRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/IntegerValueRange.java
+END
+MutableFloatValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/MutableFloatValue.java
+END
+SimpleFloatValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/SimpleFloatValue.java
+END
+Positioned.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1732/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/Positioned.java
+END
+FloatValueRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/FloatValueRange.java
+END
+PathNodeGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/PathNodeGroup.java
+END
+TextValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/TextValue.java
+END
+PathCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1775/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/PathCellServerState.java
+END
+Named.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/Named.java
+END
+Described.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/Described.java
+END
+Disposable.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1736/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/Disposable.java
+END
+SimpleName.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/SimpleName.java
+END
+PathNodeComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1732/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/PathNodeComparator.java
+END
+IntegerValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/IntegerValue.java
+END
+MutableTextValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/MutableTextValue.java
+END
+SimpleTextValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/SimpleTextValue.java
+END
+URIValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/URIValue.java
+END
+PathCellClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1775/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/PathCellClientState.java
+END
+PathCellState.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1774/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/PathCellState.java
+END
+SimpleDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/SimpleDescription.java
+END
+MutableNamed.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/MutableNamed.java
+END
+MutableDescribed.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1766/trunk/0.5/unstable/paths/src/classes/org/jdesktop/wonderland/modules/path/common/MutableDescribed.java
+END

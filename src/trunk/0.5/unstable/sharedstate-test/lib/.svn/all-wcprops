@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/354/trunk/0.5/unstable/sharedstate-test/lib
+END
+js.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/354/trunk/0.5/unstable/sharedstate-test/lib/js.jar
+END
+js-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/354/trunk/0.5/unstable/sharedstate-test/lib/js-LICENSE.txt
+END
+js-engine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/354/trunk/0.5/unstable/sharedstate-test/lib/js-engine.jar
+END
+js-engine-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/354/trunk/0.5/unstable/sharedstate-test/lib/js-engine-LICENSE.txt
+END

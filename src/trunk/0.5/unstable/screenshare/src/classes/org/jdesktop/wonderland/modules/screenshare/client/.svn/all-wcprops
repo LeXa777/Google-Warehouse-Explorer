@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1653/trunk/0.5/unstable/screenshare/src/classes/org/jdesktop/wonderland/modules/screenshare/client
+END
+ScreenShareClientPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1571/trunk/0.5/unstable/screenshare/src/classes/org/jdesktop/wonderland/modules/screenshare/client/ScreenShareClientPlugin.java
+END
+ScreenShareCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1571/trunk/0.5/unstable/screenshare/src/classes/org/jdesktop/wonderland/modules/screenshare/client/ScreenShareCell.java
+END
+ScreenShareControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1571/trunk/0.5/unstable/screenshare/src/classes/org/jdesktop/wonderland/modules/screenshare/client/ScreenShareControlPanel.java
+END
+ImageReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1571/trunk/0.5/unstable/screenshare/src/classes/org/jdesktop/wonderland/modules/screenshare/client/ImageReader.java
+END
+ScreenShareControlPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1571/trunk/0.5/unstable/screenshare/src/classes/org/jdesktop/wonderland/modules/screenshare/client/ScreenShareControlPanel.form
+END
+SelectorWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1571/trunk/0.5/unstable/screenshare/src/classes/org/jdesktop/wonderland/modules/screenshare/client/SelectorWindow.java
+END
+ScreenShareCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1571/trunk/0.5/unstable/screenshare/src/classes/org/jdesktop/wonderland/modules/screenshare/client/ScreenShareCellFactory.java
+END
+ScreenShareWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1571/trunk/0.5/unstable/screenshare/src/classes/org/jdesktop/wonderland/modules/screenshare/client/ScreenShareWindow.java
+END
+Uploader.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1571/trunk/0.5/unstable/screenshare/src/classes/org/jdesktop/wonderland/modules/screenshare/client/Uploader.java
+END

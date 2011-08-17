@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1798/trunk/0.5/unstable/office-converter/lib
+END
+converter.war
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1768/trunk/0.5/unstable/office-converter/lib/converter.war
+END
+commons-codec-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1768/trunk/0.5/unstable/office-converter/lib/commons-codec-1.4.jar
+END
+httpmime-4.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1768/trunk/0.5/unstable/office-converter/lib/httpmime-4.1.1.jar
+END
+httpcore-4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1768/trunk/0.5/unstable/office-converter/lib/httpcore-4.1.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1768/trunk/0.5/unstable/office-converter/lib/commons-logging-1.1.1.jar
+END
+httpclient-4.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1768/trunk/0.5/unstable/office-converter/lib/httpclient-4.1.1.jar
+END
+httpclient-cache-4.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1768/trunk/0.5/unstable/office-converter/lib/httpclient-cache-4.1.1.jar
+END
+commons-io-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1768/trunk/0.5/unstable/office-converter/lib/commons-io-1.4.jar
+END
+jodconverter-2.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1768/trunk/0.5/unstable/office-converter/lib/jodconverter-2.2.2.jar
+END

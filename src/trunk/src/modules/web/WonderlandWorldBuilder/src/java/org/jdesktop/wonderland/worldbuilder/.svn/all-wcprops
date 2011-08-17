@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/295/trunk/src/modules/web/WonderlandWorldBuilder/src/java/org/jdesktop/wonderland/worldbuilder
+END
+Cell.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/110/trunk/src/modules/web/WonderlandWorldBuilder/src/java/org/jdesktop/wonderland/worldbuilder/Cell.java
+END
+CellDimension.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/68/trunk/src/modules/web/WonderlandWorldBuilder/src/java/org/jdesktop/wonderland/worldbuilder/CellDimension.java
+END
+CellLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/110/trunk/src/modules/web/WonderlandWorldBuilder/src/java/org/jdesktop/wonderland/worldbuilder/CellLocation.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/events
+END
+SingleEventFrame.form
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1401/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/events/SingleEventFrame.form
+END
+EventSettingsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/events/EventSettingsPanel.java
+END
+SingleEventPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/events/SingleEventPanel.java
+END
+SingleEventPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1448/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/events/SingleEventPanel.form
+END
+ProximitySettingsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/events/ProximitySettingsPanel.java
+END
+ContextSettingsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/events/ContextSettingsPanel.java
+END
+ProximitySettingsPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1403/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/events/ProximitySettingsPanel.form
+END
+ContextSettingsPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1403/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/events/ContextSettingsPanel.form
+END
+EventEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1403/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/events/EventEditor.java
+END
+EventEditor.form
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1403/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/events/EventEditor.form
+END
+MovementSettingsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/events/MovementSettingsPanel.java
+END
+MovementSettingsPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1448/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/events/MovementSettingsPanel.form
+END
+SingleEventFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/ui/events/SingleEventFrame.java
+END

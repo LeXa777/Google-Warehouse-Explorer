@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1608/trunk/0.5/unstable/top-map/src/classes/org/jdesktop/wonderland/modules/topmap/client/resources
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1194/trunk/0.5/unstable/top-map/src/classes/org/jdesktop/wonderland/modules/topmap/client/resources/Bundle.properties
+END
+Bundle_el.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1590/trunk/0.5/unstable/top-map/src/classes/org/jdesktop/wonderland/modules/topmap/client/resources/Bundle_el.properties
+END
+Bundle_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1589/trunk/0.5/unstable/top-map/src/classes/org/jdesktop/wonderland/modules/topmap/client/resources/Bundle_zh_CN.properties
+END
+Bundle_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1608/trunk/0.5/unstable/top-map/src/classes/org/jdesktop/wonderland/modules/topmap/client/resources/Bundle_es.properties
+END
+Bundle_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1603/trunk/0.5/unstable/top-map/src/classes/org/jdesktop/wonderland/modules/topmap/client/resources/Bundle_fr.properties
+END
+Bundle_en_GB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1212/trunk/0.5/unstable/top-map/src/classes/org/jdesktop/wonderland/modules/topmap/client/resources/Bundle_en_GB.properties
+END

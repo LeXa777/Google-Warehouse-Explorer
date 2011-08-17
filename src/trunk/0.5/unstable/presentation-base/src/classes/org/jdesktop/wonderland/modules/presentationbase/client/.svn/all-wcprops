@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1259/trunk/0.5/unstable/presentation-base/src/classes/org/jdesktop/wonderland/modules/presentationbase/client
+END
+PresentationBaseClientPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1259/trunk/0.5/unstable/presentation-base/src/classes/org/jdesktop/wonderland/modules/presentationbase/client/PresentationBaseClientPlugin.java
+END
+MovingPlatformCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1040/trunk/0.5/unstable/presentation-base/src/classes/org/jdesktop/wonderland/modules/presentationbase/client/MovingPlatformCell.java
+END
+MovingPlatformAvatarComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1135/trunk/0.5/unstable/presentation-base/src/classes/org/jdesktop/wonderland/modules/presentationbase/client/MovingPlatformAvatarComponent.java
+END
+PresentationToolbarManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/733/trunk/0.5/unstable/presentation-base/src/classes/org/jdesktop/wonderland/modules/presentationbase/client/PresentationToolbarManager.java
+END
+PresentationsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1022/trunk/0.5/unstable/presentation-base/src/classes/org/jdesktop/wonderland/modules/presentationbase/client/PresentationsManager.java
+END
+PresentationCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1040/trunk/0.5/unstable/presentation-base/src/classes/org/jdesktop/wonderland/modules/presentationbase/client/PresentationCell.java
+END
+MovingPlatformCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/724/trunk/0.5/unstable/presentation-base/src/classes/org/jdesktop/wonderland/modules/presentationbase/client/MovingPlatformCellFactory.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1608/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/client
+END
+PDFPresenterHUDPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1520/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/client/PDFPresenterHUDPanel.java
+END
+PresentationCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1520/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/client/PresentationCellFactory.java
+END
+PresentationBaseClientPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1365/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/client/PresentationBaseClientPlugin.java
+END
+MovingPlatformCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1520/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/client/MovingPlatformCell.java
+END
+PDFPresenterHUDPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1429/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/client/PDFPresenterHUDPanel.form
+END
+MovingPlatformAvatarComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1269/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/client/MovingPlatformAvatarComponent.java
+END
+PDFLayoutHUDPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1520/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/client/PDFLayoutHUDPanel.java
+END
+PresentationToolbarManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1269/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/client/PresentationToolbarManager.java
+END
+PresentationsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1520/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/client/PresentationsManager.java
+END
+PDFLayoutHUDPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1466/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/client/PDFLayoutHUDPanel.form
+END
+PresentationCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1520/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/client/PresentationCell.java
+END
+MovingPlatformCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1269/trunk/0.5/unstable/pdf-presentation/src/classes/org/jdesktop/wonderland/modules/pdfpresentation/client/MovingPlatformCellFactory.java
+END

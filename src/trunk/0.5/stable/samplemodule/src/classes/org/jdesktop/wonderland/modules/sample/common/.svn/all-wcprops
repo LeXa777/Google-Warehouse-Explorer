@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1099/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/common
+END
+SampleCellClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1099/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/common/SampleCellClientState.java
+END
+SampleCellComponentClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1099/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/common/SampleCellComponentClientState.java
+END
+SampleCellSubComponentServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1099/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/common/SampleCellSubComponentServerState.java
+END
+SampleCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1099/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/common/SampleCellServerState.java
+END
+SampleCellComponentServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1099/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/common/SampleCellComponentServerState.java
+END
+SampleCellSubComponentClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1099/trunk/0.5/stable/samplemodule/src/classes/org/jdesktop/wonderland/modules/sample/common/SampleCellSubComponentClientState.java
+END

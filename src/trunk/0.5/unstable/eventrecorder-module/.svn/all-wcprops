@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1608/trunk/0.5/unstable/eventrecorder-module
+END
+my.module.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/688/trunk/0.5/unstable/eventrecorder-module/my.module.properties
+END
+eventrecorder-wlc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/367/trunk/0.5/unstable/eventrecorder-module/eventrecorder-wlc.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1382/trunk/0.5/unstable/eventrecorder-module/build.xml
+END

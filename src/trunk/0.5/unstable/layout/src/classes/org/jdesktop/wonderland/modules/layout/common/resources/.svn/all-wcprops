@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1608/trunk/0.5/unstable/layout/src/classes/org/jdesktop/wonderland/modules/layout/common/resources
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1348/trunk/0.5/unstable/layout/src/classes/org/jdesktop/wonderland/modules/layout/common/resources/Bundle.properties
+END
+Bundle_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1608/trunk/0.5/unstable/layout/src/classes/org/jdesktop/wonderland/modules/layout/common/resources/Bundle_es.properties
+END
+Bundle_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1603/trunk/0.5/unstable/layout/src/classes/org/jdesktop/wonderland/modules/layout/common/resources/Bundle_fr.properties
+END

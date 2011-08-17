@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1608/trunk/0.5/unstable/swingwhiteboard/src/classes/org/jdesktop/wonderland/modules/swingwhiteboard/client/resources
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1106/trunk/0.5/unstable/swingwhiteboard/src/classes/org/jdesktop/wonderland/modules/swingwhiteboard/client/resources/Bundle.properties
+END
+swingwhiteboard_preview.png
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1106/trunk/0.5/unstable/swingwhiteboard/src/classes/org/jdesktop/wonderland/modules/swingwhiteboard/client/resources/swingwhiteboard_preview.png
+END
+Bundle_el.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1590/trunk/0.5/unstable/swingwhiteboard/src/classes/org/jdesktop/wonderland/modules/swingwhiteboard/client/resources/Bundle_el.properties
+END
+Bundle_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1589/trunk/0.5/unstable/swingwhiteboard/src/classes/org/jdesktop/wonderland/modules/swingwhiteboard/client/resources/Bundle_zh_CN.properties
+END
+Bundle_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1608/trunk/0.5/unstable/swingwhiteboard/src/classes/org/jdesktop/wonderland/modules/swingwhiteboard/client/resources/Bundle_es.properties
+END
+Bundle_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1603/trunk/0.5/unstable/swingwhiteboard/src/classes/org/jdesktop/wonderland/modules/swingwhiteboard/client/resources/Bundle_fr.properties
+END
+Bundle_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1106/trunk/0.5/unstable/swingwhiteboard/src/classes/org/jdesktop/wonderland/modules/swingwhiteboard/client/resources/Bundle_de.properties
+END

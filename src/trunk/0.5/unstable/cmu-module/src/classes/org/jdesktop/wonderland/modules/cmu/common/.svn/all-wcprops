@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common
+END
+NodeID.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1104/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/NodeID.java
+END
+CMUCellClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/CMUCellClientState.java
+END
+VisualType.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1104/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/VisualType.java
+END
+PersistentSceneData.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/PersistentSceneData.java
+END
+UnloadSceneReason.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1143/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/UnloadSceneReason.java
+END
+ProgramConnectionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/707/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/ProgramConnectionType.java
+END
+CMUCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1104/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/CMUCellServerState.java
+END
+PlaybackDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1143/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/PlaybackDefaults.java
+END

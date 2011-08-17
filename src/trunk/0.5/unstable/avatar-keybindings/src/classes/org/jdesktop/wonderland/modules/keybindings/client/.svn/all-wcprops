@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1608/trunk/0.5/unstable/avatar-keybindings/src/classes/org/jdesktop/wonderland/modules/keybindings/client
+END
+EditKeyBindingsJFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1167/trunk/0.5/unstable/avatar-keybindings/src/classes/org/jdesktop/wonderland/modules/keybindings/client/EditKeyBindingsJFrame.java
+END
+EditKeyBindingsJFrame.form
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1167/trunk/0.5/unstable/avatar-keybindings/src/classes/org/jdesktop/wonderland/modules/keybindings/client/EditKeyBindingsJFrame.form
+END
+KeyBindingsClientPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1167/trunk/0.5/unstable/avatar-keybindings/src/classes/org/jdesktop/wonderland/modules/keybindings/client/KeyBindingsClientPlugin.java
+END
+AddKeyBindingJDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1167/trunk/0.5/unstable/avatar-keybindings/src/classes/org/jdesktop/wonderland/modules/keybindings/client/AddKeyBindingJDialog.java
+END
+AddKeyBindingJDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1167/trunk/0.5/unstable/avatar-keybindings/src/classes/org/jdesktop/wonderland/modules/keybindings/client/AddKeyBindingJDialog.form
+END

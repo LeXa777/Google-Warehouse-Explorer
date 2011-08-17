@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1815/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client
+END
+VideoPlayerCellProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1605/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VideoPlayerCellProperties.java
+END
+VideoMeter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1815/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VideoMeter.java
+END
+VideoDrawingTexture.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1815/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VideoDrawingTexture.java
+END
+TimeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1588/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/TimeListener.java
+END
+VideoPlayerControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1815/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VideoPlayerControlPanel.java
+END
+VideoLibraryPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1815/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VideoLibraryPlugin.java
+END
+VolumeSlider.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1605/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VolumeSlider.java
+END
+VolumeControlPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1605/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VolumeControlPanel.form
+END
+VideoPlayerCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1815/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VideoPlayerCellFactory.java
+END
+VideoPlayerWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1815/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VideoPlayerWindow.java
+END
+VideoPlayerToolManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1815/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VideoPlayerToolManager.java
+END
+VideoPlayerStateTransferable.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1588/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VideoPlayerStateTransferable.java
+END
+VideoPlayerCellProperties.form
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1605/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VideoPlayerCellProperties.form
+END
+WonderlandVideoPlayerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1815/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/WonderlandVideoPlayerImpl.java
+END
+VideoPlayerApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1605/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VideoPlayerApp.java
+END
+VideoPlayerToolActionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1605/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VideoPlayerToolActionListener.java
+END
+VideoMeter.form
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1595/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VideoMeter.form
+END
+TimedEventSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1588/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/TimedEventSource.java
+END
+VideoPlayerControlPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1815/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VideoPlayerControlPanel.form
+END
+VideoPlayerDragGestureListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1588/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VideoPlayerDragGestureListener.java
+END
+VolumeControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1605/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VolumeControlPanel.java
+END
+VideoDrawingSurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1815/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VideoDrawingSurface.java
+END
+VolumeSlider.form
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1605/trunk/0.5/unstable/videoplayer/src/classes/org/jdesktop/wonderland/modules/videoplayer/client/VolumeSlider.form
+END

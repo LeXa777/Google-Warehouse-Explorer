@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1097/trunk/0.5/stable/security-session-auth/src/classes/org/jdesktop/wonderland/modules/securitysession/auth/weblib/db
+END
+UserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1097/trunk/0.5/stable/security-session-auth/src/classes/org/jdesktop/wonderland/modules/securitysession/auth/weblib/db/UserDAO.java
+END
+UserEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1097/trunk/0.5/stable/security-session-auth/src/classes/org/jdesktop/wonderland/modules/securitysession/auth/weblib/db/UserEntity.java
+END

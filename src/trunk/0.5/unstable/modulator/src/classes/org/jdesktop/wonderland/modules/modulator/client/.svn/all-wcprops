@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1624/trunk/0.5/unstable/modulator/src/classes/org/jdesktop/wonderland/modules/modulator/client
+END
+ModulatorQuaternionInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1540/trunk/0.5/unstable/modulator/src/classes/org/jdesktop/wonderland/modules/modulator/client/ModulatorQuaternionInterpolator.java
+END
+AnimationProcessorComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1540/trunk/0.5/unstable/modulator/src/classes/org/jdesktop/wonderland/modules/modulator/client/AnimationProcessorComponent.java
+END
+ModulatorCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1624/trunk/0.5/unstable/modulator/src/classes/org/jdesktop/wonderland/modules/modulator/client/ModulatorCell.java
+END
+ModulatorRotationAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1540/trunk/0.5/unstable/modulator/src/classes/org/jdesktop/wonderland/modules/modulator/client/ModulatorRotationAnimation.java
+END
+ModulatorThreeNodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1619/trunk/0.5/unstable/modulator/src/classes/org/jdesktop/wonderland/modules/modulator/client/ModulatorThreeNodes.java
+END
+ModulatorAllNodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1619/trunk/0.5/unstable/modulator/src/classes/org/jdesktop/wonderland/modules/modulator/client/ModulatorAllNodes.java
+END
+ModulatorMultipleNodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1619/trunk/0.5/unstable/modulator/src/classes/org/jdesktop/wonderland/modules/modulator/client/ModulatorMultipleNodes.java
+END
+ModulatorQuaternionAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1540/trunk/0.5/unstable/modulator/src/classes/org/jdesktop/wonderland/modules/modulator/client/ModulatorQuaternionAnimation.java
+END
+ModulatorVectorInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1540/trunk/0.5/unstable/modulator/src/classes/org/jdesktop/wonderland/modules/modulator/client/ModulatorVectorInterpolator.java
+END
+ModulatorRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1620/trunk/0.5/unstable/modulator/src/classes/org/jdesktop/wonderland/modules/modulator/client/ModulatorRenderer.java
+END
+ModulatorANode.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1619/trunk/0.5/unstable/modulator/src/classes/org/jdesktop/wonderland/modules/modulator/client/ModulatorANode.java
+END
+ModulatorSingleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1619/trunk/0.5/unstable/modulator/src/classes/org/jdesktop/wonderland/modules/modulator/client/ModulatorSingleNode.java
+END
+ModulatorCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1540/trunk/0.5/unstable/modulator/src/classes/org/jdesktop/wonderland/modules/modulator/client/ModulatorCellFactory.java
+END

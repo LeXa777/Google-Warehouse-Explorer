@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1608/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/client
+END
+RotationAnimationProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/622/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/client/RotationAnimationProcessor.java
+END
+EventRecorderCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1381/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/client/EventRecorderCellFactory.java
+END
+AnimationProcessorComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/622/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/client/AnimationProcessorComponent.java
+END
+EventRecorderCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1381/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/client/EventRecorderCell.java
+END
+ReelForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1381/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/client/ReelForm.java
+END
+ReelForm.form
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1381/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/client/ReelForm.form
+END
+EventRecorderCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/692/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/client/EventRecorderCellRenderer.java
+END

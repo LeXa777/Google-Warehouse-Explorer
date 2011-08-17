@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1680/trunk/0.5/unstable/tightvnccontrol/src/classes/uk/ac/essex/wonderland/modules/tightvnccontrol/common
+END
+TightVNCCollectionRequestMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1680/trunk/0.5/unstable/tightvnccontrol/src/classes/uk/ac/essex/wonderland/modules/tightvnccontrol/common/TightVNCCollectionRequestMessage.java
+END
+TightVNCAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1680/trunk/0.5/unstable/tightvnccontrol/src/classes/uk/ac/essex/wonderland/modules/tightvnccontrol/common/TightVNCAction.java
+END
+TightVNCSettingsRequestMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1680/trunk/0.5/unstable/tightvnccontrol/src/classes/uk/ac/essex/wonderland/modules/tightvnccontrol/common/TightVNCSettingsRequestMessage.java
+END
+TightVNCRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1680/trunk/0.5/unstable/tightvnccontrol/src/classes/uk/ac/essex/wonderland/modules/tightvnccontrol/common/TightVNCRecord.java
+END
+TightVNCCollectionResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1680/trunk/0.5/unstable/tightvnccontrol/src/classes/uk/ac/essex/wonderland/modules/tightvnccontrol/common/TightVNCCollectionResponseMessage.java
+END
+TightVNCConnectionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1680/trunk/0.5/unstable/tightvnccontrol/src/classes/uk/ac/essex/wonderland/modules/tightvnccontrol/common/TightVNCConnectionType.java
+END
+ChangeSettingsMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1680/trunk/0.5/unstable/tightvnccontrol/src/classes/uk/ac/essex/wonderland/modules/tightvnccontrol/common/ChangeSettingsMessage.java
+END
+TightVNCSettingsResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1680/trunk/0.5/unstable/tightvnccontrol/src/classes/uk/ac/essex/wonderland/modules/tightvnccontrol/common/TightVNCSettingsResponseMessage.java
+END

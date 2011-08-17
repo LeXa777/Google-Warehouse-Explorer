@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1764/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/ezscripting
+END
+MoveNpcLeft.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1764/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/ezscripting/MoveNpcLeft.java
+END
+CreateNPCMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1660/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/ezscripting/CreateNPCMethod.java
+END
+MoveNpcRight.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1764/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/ezscripting/MoveNpcRight.java
+END
+GetNPCControlsMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1660/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/ezscripting/GetNPCControlsMethod.java
+END
+MoveNpcBack.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1764/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/ezscripting/MoveNpcBack.java
+END
+MoveNpcToMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1660/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/ezscripting/MoveNpcToMethod.java
+END
+MoveNpcForward.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1764/trunk/0.5/unstable/generic-npc/src/classes/org/jdesktop/wonderland/modules/genericnpc/client/ezscripting/MoveNpcForward.java
+END

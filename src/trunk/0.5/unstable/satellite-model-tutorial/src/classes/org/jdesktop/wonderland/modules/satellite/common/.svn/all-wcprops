@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1205/trunk/0.5/unstable/satellite-model-tutorial/src/classes/org/jdesktop/wonderland/modules/satellite/common
+END
+SatelliteCellClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1205/trunk/0.5/unstable/satellite-model-tutorial/src/classes/org/jdesktop/wonderland/modules/satellite/common/SatelliteCellClientState.java
+END
+SatelliteCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1205/trunk/0.5/unstable/satellite-model-tutorial/src/classes/org/jdesktop/wonderland/modules/satellite/common/SatelliteCellServerState.java
+END

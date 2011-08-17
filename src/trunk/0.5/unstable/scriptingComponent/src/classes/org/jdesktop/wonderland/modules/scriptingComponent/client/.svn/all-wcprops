@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1656/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/client
+END
+ScriptingProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/client/ScriptingProperties.java
+END
+PresenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/client/PresenceManager.java
+END
+ScriptingAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/client/ScriptingAction.java
+END
+ScriptingProperties.form
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/client/ScriptingProperties.form
+END
+IntercellEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/client/IntercellEvent.java
+END
+ScriptingComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1656/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/client/ScriptingComponent.java
+END
+ScriptingActionClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/client/ScriptingActionClass.java
+END
+IntercellListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/client/IntercellListener.java
+END
+ScriptingRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1628/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/client/ScriptingRunnable.java
+END
+SocketInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1547/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/client/SocketInterface.java
+END
+ScriptingComponentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1554/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/client/ScriptingComponentFactory.java
+END
+IncomingSocketInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/src/classes/org/jdesktop/wonderland/modules/scriptingComponent/client/IncomingSocketInterface.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1345/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/common
+END
+MovieRecorderCellChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1326/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/common/MovieRecorderCellChangeMessage.java
+END
+MovieRecorderCellClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1326/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/common/MovieRecorderCellClientState.java
+END
+MovieRecorderCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1345/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/common/MovieRecorderCellServerState.java
+END

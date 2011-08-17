@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1733/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/animation
+END
+AnimateCellMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1681/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/animation/AnimateCellMethod.java
+END
+AnimationNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1733/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/animation/AnimationNode.java
+END
+VectorInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1681/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/animation/VectorInterpolator.java
+END
+AnimationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1681/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/animation/AnimationFactory.java
+END
+QuaternionInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1681/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/animation/QuaternionInterpolator.java
+END

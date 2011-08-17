@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/698/trunk/0.5/unstable/thought-bubbles/src/classes/org/jdesktop/wonderland/modules/thoughtbubbles/common
+END
+ThoughtBubblesComponentChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/664/trunk/0.5/unstable/thought-bubbles/src/classes/org/jdesktop/wonderland/modules/thoughtbubbles/common/ThoughtBubblesComponentChangeMessage.java
+END
+ThoughtRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/698/trunk/0.5/unstable/thought-bubbles/src/classes/org/jdesktop/wonderland/modules/thoughtbubbles/common/ThoughtRecord.java
+END
+ThoughtBubblesComponentClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/664/trunk/0.5/unstable/thought-bubbles/src/classes/org/jdesktop/wonderland/modules/thoughtbubbles/common/ThoughtBubblesComponentClientState.java
+END
+ThoughtBubblesComponentServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/664/trunk/0.5/unstable/thought-bubbles/src/classes/org/jdesktop/wonderland/modules/thoughtbubbles/common/ThoughtBubblesComponentServerState.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1150/trunk/0.5/unstable/shape-tutorial-module/src/classes/org/jdesktop/wonderland/modules/shape/common
+END
+ShapeCellClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1150/trunk/0.5/unstable/shape-tutorial-module/src/classes/org/jdesktop/wonderland/modules/shape/common/ShapeCellClientState.java
+END
+ShapeCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1150/trunk/0.5/unstable/shape-tutorial-module/src/classes/org/jdesktop/wonderland/modules/shape/common/ShapeCellServerState.java
+END
+ShapeCellChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1150/trunk/0.5/unstable/shape-tutorial-module/src/classes/org/jdesktop/wonderland/modules/shape/common/ShapeCellChangeMessage.java
+END

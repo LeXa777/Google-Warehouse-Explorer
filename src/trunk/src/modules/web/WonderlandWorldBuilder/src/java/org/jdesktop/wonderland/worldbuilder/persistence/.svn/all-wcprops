@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/295/trunk/src/modules/web/WonderlandWorldBuilder/src/java/org/jdesktop/wonderland/worldbuilder/persistence
+END
+PersistenceContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/295/trunk/src/modules/web/WonderlandWorldBuilder/src/java/org/jdesktop/wonderland/worldbuilder/persistence/PersistenceContextListener.java
+END
+PersistenceLockFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/110/trunk/src/modules/web/WonderlandWorldBuilder/src/java/org/jdesktop/wonderland/worldbuilder/persistence/PersistenceLockFilter.java
+END
+UnmodifiedCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/68/trunk/src/modules/web/WonderlandWorldBuilder/src/java/org/jdesktop/wonderland/worldbuilder/persistence/UnmodifiedCell.java
+END
+CellPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/295/trunk/src/modules/web/WonderlandWorldBuilder/src/java/org/jdesktop/wonderland/worldbuilder/persistence/CellPersistence.java
+END
+WFSConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/110/trunk/src/modules/web/WonderlandWorldBuilder/src/java/org/jdesktop/wonderland/worldbuilder/persistence/WFSConverter.java
+END

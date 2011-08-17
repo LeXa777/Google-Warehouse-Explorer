@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1616/trunk/0.5/unstable/hammer/src/classes/org/jdesktop/wonderland/modules/hammer/client
+END
+hammerVectorInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1615/trunk/0.5/unstable/hammer/src/classes/org/jdesktop/wonderland/modules/hammer/client/hammerVectorInterpolator.java
+END
+hammerQuaternionAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1615/trunk/0.5/unstable/hammer/src/classes/org/jdesktop/wonderland/modules/hammer/client/hammerQuaternionAnimation.java
+END
+hammerRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1615/trunk/0.5/unstable/hammer/src/classes/org/jdesktop/wonderland/modules/hammer/client/hammerRenderer.java
+END
+hammerSingleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1615/trunk/0.5/unstable/hammer/src/classes/org/jdesktop/wonderland/modules/hammer/client/hammerSingleNode.java
+END
+hammerCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1615/trunk/0.5/unstable/hammer/src/classes/org/jdesktop/wonderland/modules/hammer/client/hammerCellFactory.java
+END
+hammerQuaternionInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1615/trunk/0.5/unstable/hammer/src/classes/org/jdesktop/wonderland/modules/hammer/client/hammerQuaternionInterpolator.java
+END
+AnimationProcessorComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1615/trunk/0.5/unstable/hammer/src/classes/org/jdesktop/wonderland/modules/hammer/client/AnimationProcessorComponent.java
+END
+hammerCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1615/trunk/0.5/unstable/hammer/src/classes/org/jdesktop/wonderland/modules/hammer/client/hammerCell.java
+END
+hammerRotationAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1615/trunk/0.5/unstable/hammer/src/classes/org/jdesktop/wonderland/modules/hammer/client/hammerRotationAnimation.java
+END
+hammerThreeNodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1615/trunk/0.5/unstable/hammer/src/classes/org/jdesktop/wonderland/modules/hammer/client/hammerThreeNodes.java
+END
+hammerAllNodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1615/trunk/0.5/unstable/hammer/src/classes/org/jdesktop/wonderland/modules/hammer/client/hammerAllNodes.java
+END
+hammerMultipleNodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1615/trunk/0.5/unstable/hammer/src/classes/org/jdesktop/wonderland/modules/hammer/client/hammerMultipleNodes.java
+END

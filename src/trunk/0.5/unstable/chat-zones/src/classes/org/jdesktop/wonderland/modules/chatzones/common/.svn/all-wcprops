@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1041/trunk/0.5/unstable/chat-zones/src/classes/org/jdesktop/wonderland/modules/chatzones/common
+END
+ChatZonesCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1041/trunk/0.5/unstable/chat-zones/src/classes/org/jdesktop/wonderland/modules/chatzones/common/ChatZonesCellServerState.java
+END
+ChatZonesCellChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/594/trunk/0.5/unstable/chat-zones/src/classes/org/jdesktop/wonderland/modules/chatzones/common/ChatZonesCellChangeMessage.java
+END
+ChatZonesCellClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/599/trunk/0.5/unstable/chat-zones/src/classes/org/jdesktop/wonderland/modules/chatzones/common/ChatZonesCellClientState.java
+END

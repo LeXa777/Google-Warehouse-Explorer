@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/events/cmu
+END
+VisibilityChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/events/cmu/VisibilityChangeEvent.java
+END
+SceneLoadedChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/events/cmu/SceneLoadedChangeListener.java
+END
+PlaybackChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/events/cmu/PlaybackChangeListener.java
+END
+VisibilityChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/events/cmu/VisibilityChangeListener.java
+END
+SceneTitleChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/events/cmu/SceneTitleChangeEvent.java
+END
+ConnectionStateChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/events/cmu/ConnectionStateChangeEvent.java
+END
+SceneTitleChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/events/cmu/SceneTitleChangeListener.java
+END
+CMUChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/events/cmu/CMUChangeEvent.java
+END
+ConnectionStateChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/events/cmu/ConnectionStateChangeListener.java
+END
+SceneLoadedChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/events/cmu/SceneLoadedChangeEvent.java
+END
+PlaybackChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/client/events/cmu/PlaybackChangeEvent.java
+END

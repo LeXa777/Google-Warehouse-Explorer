@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/script
+END
+ScriptManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/script/ScriptManager.java
+END
+ScriptVisualizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/script/ScriptVisualizer.java
+END
+Script.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/script/Script.java
+END
+ScriptControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/script/ScriptControl.java
+END
+AbstractScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/script/AbstractScript.java
+END
+Sortable.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/script/Sortable.java
+END
+Sorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/script/Sorter.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/70/trunk/build-tools/import
+END
+platform-setup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/trunk/build-tools/import/platform-setup.xml
+END
+noop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/70/trunk/build-tools/import/noop.xml
+END
+module-common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/16/trunk/build-tools/import/module-common.xml
+END
+ant-contrib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/build-tools/import/ant-contrib.jar
+END
+build-setup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/70/trunk/build-tools/import/build-setup.xml
+END
+ant-contrib-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/build-tools/import/ant-contrib-LICENSE.txt
+END

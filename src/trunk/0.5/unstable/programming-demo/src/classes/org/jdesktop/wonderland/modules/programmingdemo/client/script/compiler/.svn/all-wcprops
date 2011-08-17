@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/script/compiler
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/script/compiler/LICENSE.txt
+END
+CharSequenceCompilerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/script/compiler/CharSequenceCompilerException.java
+END
+CharSequenceCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/script/compiler/CharSequenceCompiler.java
+END
+ClassScannerCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/script/compiler/ClassScannerCache.java
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1558/trunk/0.5/unstable/programming-demo/src/classes/org/jdesktop/wonderland/modules/programmingdemo/client/script/compiler/README
+END

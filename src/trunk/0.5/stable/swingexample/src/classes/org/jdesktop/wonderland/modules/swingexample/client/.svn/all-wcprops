@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1608/trunk/0.5/stable/swingexample/src/classes/org/jdesktop/wonderland/modules/swingexample/client
+END
+TestPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1099/trunk/0.5/stable/swingexample/src/classes/org/jdesktop/wonderland/modules/swingexample/client/TestPanel.java
+END
+TestTestPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1099/trunk/0.5/stable/swingexample/src/classes/org/jdesktop/wonderland/modules/swingexample/client/TestTestPanel.java
+END
+TestPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1099/trunk/0.5/stable/swingexample/src/classes/org/jdesktop/wonderland/modules/swingexample/client/TestPanel.form
+END
+SwingExampleApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1099/trunk/0.5/stable/swingexample/src/classes/org/jdesktop/wonderland/modules/swingexample/client/SwingExampleApp.java
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1099/trunk/0.5/stable/swingexample/src/classes/org/jdesktop/wonderland/modules/swingexample/client/Bundle.properties
+END
+Bundle_el.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1590/trunk/0.5/stable/swingexample/src/classes/org/jdesktop/wonderland/modules/swingexample/client/Bundle_el.properties
+END
+Bundle_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1589/trunk/0.5/stable/swingexample/src/classes/org/jdesktop/wonderland/modules/swingexample/client/Bundle_zh_CN.properties
+END
+Bundle_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1608/trunk/0.5/stable/swingexample/src/classes/org/jdesktop/wonderland/modules/swingexample/client/Bundle_es.properties
+END
+Bundle_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1603/trunk/0.5/stable/swingexample/src/classes/org/jdesktop/wonderland/modules/swingexample/client/Bundle_fr.properties
+END
+SwingExampleWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1220/trunk/0.5/stable/swingexample/src/classes/org/jdesktop/wonderland/modules/swingexample/client/SwingExampleWindow.java
+END
+SwingExampleCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1152/trunk/0.5/stable/swingexample/src/classes/org/jdesktop/wonderland/modules/swingexample/client/SwingExampleCellFactory.java
+END
+Bundle_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1099/trunk/0.5/stable/swingexample/src/classes/org/jdesktop/wonderland/modules/swingexample/client/Bundle_de.properties
+END

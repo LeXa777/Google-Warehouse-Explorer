@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1608/trunk/0.5/unstable/sittingCmponent/src/classes/org/jdesktop/wonderland/modules/sitting/client
+END
+SittingComponentProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1583/trunk/0.5/unstable/sittingCmponent/src/classes/org/jdesktop/wonderland/modules/sitting/client/SittingComponentProperties.java
+END
+SampleComponentProperties.form
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1576/trunk/0.5/unstable/sittingCmponent/src/classes/org/jdesktop/wonderland/modules/sitting/client/SampleComponentProperties.form
+END
+SittingCellComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1585/trunk/0.5/unstable/sittingCmponent/src/classes/org/jdesktop/wonderland/modules/sitting/client/SittingCellComponent.java
+END
+SittingChair.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1576/trunk/0.5/unstable/sittingCmponent/src/classes/org/jdesktop/wonderland/modules/sitting/client/SittingChair.java
+END
+SittingCellComponentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1583/trunk/0.5/unstable/sittingCmponent/src/classes/org/jdesktop/wonderland/modules/sitting/client/SittingCellComponentFactory.java
+END

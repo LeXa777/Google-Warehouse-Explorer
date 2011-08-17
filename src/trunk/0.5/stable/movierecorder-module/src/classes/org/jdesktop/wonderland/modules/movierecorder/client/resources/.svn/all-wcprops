@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1614/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/resources
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1522/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/resources/Bundle.properties
+END
+movierecorder-start.au
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1326/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/resources/movierecorder-start.au
+END
+Bundle_el.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1590/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/resources/Bundle_el.properties
+END
+Bundle_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1589/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/resources/Bundle_zh_CN.properties
+END
+movierecorder_preview.png
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1344/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/resources/movierecorder_preview.png
+END
+IEC5009_Standby_Symbol.png
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1522/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/resources/IEC5009_Standby_Symbol.png
+END
+Camera_Shutter.au
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1326/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/resources/Camera_Shutter.au
+END
+Bundle_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1614/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/resources/Bundle_es.properties
+END
+Bundle_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1603/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/resources/Bundle_fr.properties
+END
+Bundle_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1478/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/resources/Bundle_de.properties
+END
+movierecorder-stop.au
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1326/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/resources/movierecorder-stop.au
+END

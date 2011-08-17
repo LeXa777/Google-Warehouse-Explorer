@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1565/trunk/0.5/stable/audiorecorder-module/src/classes/org/jdesktop/wonderland/modules/audiorecorder/common
+END
+AudioRecorderCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1333/trunk/0.5/stable/audiorecorder-module/src/classes/org/jdesktop/wonderland/modules/audiorecorder/common/AudioRecorderCellServerState.java
+END
+AudioRecorderCellChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1353/trunk/0.5/stable/audiorecorder-module/src/classes/org/jdesktop/wonderland/modules/audiorecorder/common/AudioRecorderCellChangeMessage.java
+END
+AudioRecorderCellClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1297/trunk/0.5/stable/audiorecorder-module/src/classes/org/jdesktop/wonderland/modules/audiorecorder/common/AudioRecorderCellClientState.java
+END
+Tape.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1565/trunk/0.5/stable/audiorecorder-module/src/classes/org/jdesktop/wonderland/modules/audiorecorder/common/Tape.java
+END

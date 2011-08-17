@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/684/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/client/cache
+END
+MetadataCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/684/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/client/cache/MetadataCache.java
+END
+CacheEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/684/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/client/cache/CacheEvent.java
+END
+CacheEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/684/trunk/0.5/unstable/metadata/src/classes/org/jdesktop/wonderland/modules/metadata/client/cache/CacheEventListener.java
+END

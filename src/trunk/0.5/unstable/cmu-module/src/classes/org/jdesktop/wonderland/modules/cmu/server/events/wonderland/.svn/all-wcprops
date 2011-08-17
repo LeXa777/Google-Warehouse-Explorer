@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/server/events/wonderland
+END
+CMUProximityListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/server/events/wonderland/CMUProximityListener.java
+END
+CMUMovementListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/server/events/wonderland/CMUMovementListener.java
+END
+WonderlandServerEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/server/events/wonderland/WonderlandServerEventListener.java
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1621/trunk/0.5/unstable/scriptingComponent/lib
+END
+sleep.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/lib/sleep.jar
+END
+jython.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/lib/jython.jar
+END
+js.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/lib/js.jar
+END
+jython-engine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/lib/jython-engine.jar
+END
+js-engine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/lib/js-engine.jar
+END
+javafxc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/lib/javafxc.jar
+END
+java-engine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/lib/java-engine.jar
+END
+quercus.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/lib/quercus.jar
+END
+groovy-engine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/lib/groovy-engine.jar
+END
+jruby.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/lib/jruby.jar
+END
+resin-util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/lib/resin-util.jar
+END
+jawk.0_14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/lib/jawk.0_14.jar
+END
+jruby-engine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/lib/jruby-engine.jar
+END
+jawk-engine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/lib/jawk-engine.jar
+END
+groovy-all-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1536/trunk/0.5/unstable/scriptingComponent/lib/groovy-all-1.5.6.jar
+END

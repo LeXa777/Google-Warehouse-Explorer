@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/606/trunk/0.5/unstable/group-text-chat/src/classes/org/jdesktop/wonderland/modules/grouptextchat/server
+END
+TextChatMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/566/trunk/0.5/unstable/group-text-chat/src/classes/org/jdesktop/wonderland/modules/grouptextchat/server/TextChatMessageListener.java
+END
+TextChatConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/606/trunk/0.5/unstable/group-text-chat/src/classes/org/jdesktop/wonderland/modules/grouptextchat/server/TextChatConnectionHandler.java
+END
+TextChatServerPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/566/trunk/0.5/unstable/group-text-chat/src/classes/org/jdesktop/wonderland/modules/grouptextchat/server/TextChatServerPlugin.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1728/trunk/0.5/unstable/best-view/src/classes/org/jdesktop/wonderland/modules/bestview/client
+END
+BestViewComponentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1626/trunk/0.5/unstable/best-view/src/classes/org/jdesktop/wonderland/modules/bestview/client/BestViewComponentFactory.java
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1626/trunk/0.5/unstable/best-view/src/classes/org/jdesktop/wonderland/modules/bestview/client/Bundle.properties
+END
+BestViewComponentProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1626/trunk/0.5/unstable/best-view/src/classes/org/jdesktop/wonderland/modules/bestview/client/BestViewComponentProperties.java
+END
+BestViewUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1728/trunk/0.5/unstable/best-view/src/classes/org/jdesktop/wonderland/modules/bestview/client/BestViewUtils.java
+END
+BestViewComponentProperties.form
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1626/trunk/0.5/unstable/best-view/src/classes/org/jdesktop/wonderland/modules/bestview/client/BestViewComponentProperties.form
+END
+BestViewComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1728/trunk/0.5/unstable/best-view/src/classes/org/jdesktop/wonderland/modules/bestview/client/BestViewComponent.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1651/trunk/0.5/unstable/evolver-avatar-multimesh/src/classes/org/jdesktop/wonderland/modules/evolvermulti/client/evolver/resources
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1474/trunk/0.5/unstable/evolver-avatar-multimesh/src/classes/org/jdesktop/wonderland/modules/evolvermulti/client/evolver/resources/Bundle.properties
+END
+Bundle_el.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1590/trunk/0.5/unstable/evolver-avatar-multimesh/src/classes/org/jdesktop/wonderland/modules/evolvermulti/client/evolver/resources/Bundle_el.properties
+END
+Bundle_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1589/trunk/0.5/unstable/evolver-avatar-multimesh/src/classes/org/jdesktop/wonderland/modules/evolvermulti/client/evolver/resources/Bundle_zh_CN.properties
+END
+Bundle_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1608/trunk/0.5/unstable/evolver-avatar-multimesh/src/classes/org/jdesktop/wonderland/modules/evolvermulti/client/evolver/resources/Bundle_es.properties
+END
+Bundle_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1651/trunk/0.5/unstable/evolver-avatar-multimesh/src/classes/org/jdesktop/wonderland/modules/evolvermulti/client/evolver/resources/Bundle_fr.properties
+END
+Bundle_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1474/trunk/0.5/unstable/evolver-avatar-multimesh/src/classes/org/jdesktop/wonderland/modules/evolvermulti/client/evolver/resources/Bundle_de.properties
+END

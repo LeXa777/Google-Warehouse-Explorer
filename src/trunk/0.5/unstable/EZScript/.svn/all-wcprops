@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1834/trunk/0.5/unstable/EZScript
+END
+NewModule
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1655/trunk/0.5/unstable/EZScript/NewModule
+END
+my.module.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1630/trunk/0.5/unstable/EZScript/my.module.properties
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1655/trunk/0.5/unstable/EZScript/README.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1811/trunk/0.5/unstable/EZScript/build.xml
+END

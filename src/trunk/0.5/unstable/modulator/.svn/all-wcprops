@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1624/trunk/0.5/unstable/modulator
+END
+my.module.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1540/trunk/0.5/unstable/modulator/my.module.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1540/trunk/0.5/unstable/modulator/build.xml
+END
+constructor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1619/trunk/0.5/unstable/modulator/constructor.sh
+END

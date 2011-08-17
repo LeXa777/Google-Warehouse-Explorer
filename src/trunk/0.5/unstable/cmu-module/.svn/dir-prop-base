@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 68
+build
+dist
+._.DS_Store
+lib-ignore
+src-ignore
+gallery
+.build.xml.swp
+
+END

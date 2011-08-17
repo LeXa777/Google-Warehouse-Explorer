@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1608/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/client/resources
+END
+eventplayer_preview.png
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1385/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/client/resources/eventplayer_preview.png
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1391/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/client/resources/Bundle.properties
+END
+Bundle_el.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1590/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/client/resources/Bundle_el.properties
+END
+Bundle_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1589/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/client/resources/Bundle_zh_CN.properties
+END
+Bundle_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1608/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/client/resources/Bundle_es.properties
+END
+Bundle_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1603/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/client/resources/Bundle_fr.properties
+END

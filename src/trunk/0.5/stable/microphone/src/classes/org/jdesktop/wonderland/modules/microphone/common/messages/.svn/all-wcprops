@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1506/trunk/0.5/stable/microphone/src/classes/org/jdesktop/wonderland/modules/microphone/common/messages
+END
+MicrophoneVolumeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1506/trunk/0.5/stable/microphone/src/classes/org/jdesktop/wonderland/modules/microphone/common/messages/MicrophoneVolumeMessage.java
+END
+MicrophoneEnterCellMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1506/trunk/0.5/stable/microphone/src/classes/org/jdesktop/wonderland/modules/microphone/common/messages/MicrophoneEnterCellMessage.java
+END

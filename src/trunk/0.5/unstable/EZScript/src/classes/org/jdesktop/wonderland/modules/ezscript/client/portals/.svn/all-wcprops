@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1750/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/portals
+END
+PortalAnimationProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1733/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/portals/PortalAnimationProcessor.java
+END
+PortalProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1733/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/portals/PortalProcessor.java
+END
+PortalUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1750/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/portals/PortalUtils.java
+END
+CreatePortalMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1750/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/portals/CreatePortalMethod.java
+END
+PortalShader.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1733/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/portals/PortalShader.java
+END

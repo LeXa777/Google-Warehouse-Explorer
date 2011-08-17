@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1614/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client
+END
+MovieControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1522/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/MovieControlPanel.java
+END
+MovieControlPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1522/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/MovieControlPanel.form
+END
+MovieRecorderCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1522/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/MovieRecorderCell.java
+END
+MovieRecorderCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1522/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/MovieRecorderCellRenderer.java
+END
+MovieRecorderCellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1478/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/MovieRecorderCellFactory.java
+END
+ControlPanelUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1326/trunk/0.5/stable/movierecorder-module/src/classes/org/jdesktop/wonderland/modules/movierecorder/client/ControlPanelUI.java
+END

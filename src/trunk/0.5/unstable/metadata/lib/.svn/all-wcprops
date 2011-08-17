@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/565/trunk/0.5/unstable/metadata/lib
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/565/trunk/0.5/unstable/metadata/lib/commons-collections-3.2.1.jar
+END
+antlr-2.7.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/565/trunk/0.5/unstable/metadata/lib/antlr-2.7.7.jar
+END
+shared-ldap-0.9.15-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/565/trunk/0.5/unstable/metadata/lib/shared-ldap-0.9.15-SNAPSHOT.jar
+END
+slf4j-api-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/565/trunk/0.5/unstable/metadata/lib/slf4j-api-1.5.2.jar
+END
+commons-lang-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/565/trunk/0.5/unstable/metadata/lib/commons-lang-2.4.jar
+END
+shared-asn1-0.9.15-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/565/trunk/0.5/unstable/metadata/lib/shared-asn1-0.9.15-SNAPSHOT.jar
+END
+apacheds-all-1.5.5-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/565/trunk/0.5/unstable/metadata/lib/apacheds-all-1.5.5-SNAPSHOT.jar
+END
+log4j-1.2.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/565/trunk/0.5/unstable/metadata/lib/log4j-1.2.14.jar
+END
+shared-ldap-constants-0.9.15-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/565/trunk/0.5/unstable/metadata/lib/shared-ldap-constants-0.9.15-SNAPSHOT.jar
+END
+slf4j-log4j12-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/565/trunk/0.5/unstable/metadata/lib/slf4j-log4j12-1.5.2.jar
+END

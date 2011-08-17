@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1030/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/web/resources
+END
+RecordLoadedCellResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/679/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/web/resources/RecordLoadedCellResource.java
+END
+RecordUnloadedCellResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/570/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/web/resources/RecordUnloadedCellResource.java
+END
+CreateChangesFileResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/570/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/web/resources/CreateChangesFileResource.java
+END
+CloseChangesFileResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/570/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/web/resources/CloseChangesFileResource.java
+END
+RecordMetadataResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/662/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/web/resources/RecordMetadataResource.java
+END
+RecordMessageResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/661/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/web/resources/RecordMessageResource.java
+END
+RecordPositionResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1030/trunk/0.5/unstable/eventrecorder-module/src/classes/org/jdesktop/wonderland/modules/eventrecorder/web/resources/RecordPositionResource.java
+END

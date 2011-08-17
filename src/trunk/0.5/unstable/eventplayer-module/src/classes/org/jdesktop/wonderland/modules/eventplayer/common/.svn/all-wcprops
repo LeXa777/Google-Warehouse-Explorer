@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1386/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/common
+END
+EventPlayerCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/712/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/common/EventPlayerCellServerState.java
+END
+Tape.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1386/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/common/Tape.java
+END
+EventPlayerCellChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/711/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/common/EventPlayerCellChangeMessage.java
+END
+TapeStateMessageResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/603/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/common/TapeStateMessageResponse.java
+END
+EventPlayerClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1386/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/common/EventPlayerClientState.java
+END

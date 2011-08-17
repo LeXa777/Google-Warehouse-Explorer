@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/cmuclient
+END
+VisualDeletedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1098/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/cmuclient/VisualDeletedMessage.java
+END
+SceneMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/cmuclient/SceneMessage.java
+END
+GeometryUpdateMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1134/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/cmuclient/GeometryUpdateMessage.java
+END
+UnloadSceneMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1143/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/cmuclient/UnloadSceneMessage.java
+END
+CMUClientMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1518/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/cmuclient/CMUClientMessage.java
+END
+VisualMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1134/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/cmuclient/VisualMessage.java
+END
+AppearancePropertyMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1113/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/cmuclient/AppearancePropertyMessage.java
+END
+TransformationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1104/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/cmuclient/TransformationMessage.java
+END
+SingleNodeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1104/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/cmuclient/SingleNodeMessage.java
+END
+VisualPropertyMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1104/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/cmuclient/VisualPropertyMessage.java
+END
+NodeUpdateMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1104/trunk/0.5/unstable/cmu-module/src/classes/org/jdesktop/wonderland/modules/cmu/common/messages/cmuclient/NodeUpdateMessage.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1778/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/errorinfo
+END
+DefaultFriendlyErrorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1778/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/errorinfo/DefaultFriendlyErrorInfo.java
+END
+DefaultFriendlyJavaErrorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1778/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/errorinfo/DefaultFriendlyJavaErrorInfo.java
+END
+DefaultFriendlyJavascriptErrorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1778/trunk/0.5/unstable/EZScript/src/classes/org/jdesktop/wonderland/modules/ezscript/client/errorinfo/DefaultFriendlyJavascriptErrorInfo.java
+END

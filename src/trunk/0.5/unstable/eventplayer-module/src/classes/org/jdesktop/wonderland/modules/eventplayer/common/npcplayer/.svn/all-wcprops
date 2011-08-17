@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1386/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/common/npcplayer
+END
+NpcPlayerCellServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1386/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/common/npcplayer/NpcPlayerCellServerState.java
+END
+NpcPlayerCellChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1386/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/common/npcplayer/NpcPlayerCellChangeMessage.java
+END
+NpcPlayerCellClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1386/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/common/npcplayer/NpcPlayerCellClientState.java
+END
+NpcPlayerConfigComponentServerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1148/trunk/0.5/unstable/eventplayer-module/src/classes/org/jdesktop/wonderland/modules/eventplayer/common/npcplayer/NpcPlayerConfigComponentServerState.java
+END

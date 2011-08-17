@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1596/trunk/0.5/unstable/clock2/src/classes/org/jdesktop/wonderland/modules/clock2/client/resources
+END
+module.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1596/trunk/0.5/unstable/clock2/src/classes/org/jdesktop/wonderland/modules/clock2/client/resources/module.properties
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1596/trunk/0.5/unstable/clock2/src/classes/org/jdesktop/wonderland/modules/clock2/client/resources/Bundle.properties
+END
+mouse1.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1596/trunk/0.5/unstable/clock2/src/classes/org/jdesktop/wonderland/modules/clock2/client/resources/mouse1.js
+END
+mouse1s.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1596/trunk/0.5/unstable/clock2/src/classes/org/jdesktop/wonderland/modules/clock2/client/resources/mouse1s.js
+END
+startup.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1596/trunk/0.5/unstable/clock2/src/classes/org/jdesktop/wonderland/modules/clock2/client/resources/startup.js
+END

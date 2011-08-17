@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1577/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/server/cell
+END
+NpcAvatarConfigComponentMO.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1546/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/server/cell/NpcAvatarConfigComponentMO.java
+END
+MovableNpcComponentMO.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1546/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/server/cell/MovableNpcComponentMO.java
+END
+NpcPluginSrv.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1071/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/server/cell/NpcPluginSrv.java
+END
+NpcCellMO.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1577/trunk/0.5/unstable/npc/src/classes/org/jdesktop/wonderland/modules/npc/server/cell/NpcCellMO.java
+END
