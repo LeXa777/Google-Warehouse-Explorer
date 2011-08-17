@@ -246,7 +246,7 @@ public class Warehouse {
     public void importModel(String path) {
         List<File> file = new ArrayList<File>();
         file.add(new File(path));
-        FileListDataFlavorHandler.launchCellFromFileList(file);
+        FileListDataFlavorHandler.importFile(file, true, null);
     }
 
     public void navigateLocal() {
